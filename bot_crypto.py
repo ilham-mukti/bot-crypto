@@ -32,18 +32,21 @@ class BotCrypto:
         }
 
     def request_data(self):
-        s = requests.Session()
-        url_data = "https://www.tokocrypto.com/v1/market/trading-pairs"
-        response = s.get(url_data, params=self.params, headers=self.headers)
-        response = response.json()
-        results = response['data']['list']
+        try:
+            s = requests.Session()
+            url_data = "https://www.tokocrypto.com/v1/market/trading-pairs"
+            response = s.get(url_data, params=self.params, headers=self.headers)
+            response = response.json()
+            results = response['data']['list']
 
-        my_dict = {}
-        for data in results:
-            name_pairs = data['symbol']
-            price = float(data['price'])
-            my_dict[name_pairs] = price
-        return my_dict
+            my_dict = {}
+            for data in results:
+                name_pairs = data['symbol']
+                price = float(data['price'])
+                my_dict[name_pairs] = price
+            return my_dict
+        except:
+            print("Tidak ada json")
             
     def create_file(self, data):
         f = open(self.output_file, 'w')
