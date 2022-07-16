@@ -62,7 +62,7 @@ class BotCrypto:
 
     def update_readme(self, data):
         now = datetime.datetime.now()
-        with open('readme.md', 'w') as f:
+        with open('README.md', 'w') as f:
             f.write(f"# Data koin yang naik cepat {now}\n\n")
 
             for key, value in data.items():
