@@ -65,7 +65,7 @@ class BotCrypto:
         f.close()
         print("selesai")
 
-    def blabla_data(self, harga_baru):
+    def olah_data(self, harga_baru):
         is_new = not os.path.isfile(self.output_file)
         if is_new:
             self.create_file(harga_baru)
@@ -86,7 +86,7 @@ class BotCrypto:
 
             f.close()
             self.create_file(harga_baru)
-            return dict_coin_up
+            self.update_readme(dict_coin_up)
 
     def update_readme(self, data):
         now = datetime.datetime.now()
@@ -99,5 +99,4 @@ class BotCrypto:
 
 bot = BotCrypto()
 data_raw = bot.request_data()
-olah_data = bot.blabla_data(data_raw)
-update = bot.update_readme(olah_data)
+result = bot.olah_data(data_raw)
