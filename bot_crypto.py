@@ -10,7 +10,7 @@ class BotCrypto:
         self.params = {
             'quoteAsset': 'USDT',
             'offset': '0',
-            'limit': '1000',
+            'limit': '100',
         }
 
         self.headers = {
