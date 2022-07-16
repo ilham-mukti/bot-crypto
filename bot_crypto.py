@@ -16,7 +16,7 @@ class BotCrypto:
     def request_data(self):
         proxy = {
             "http": 'http://8.219.97.248:80',
-            "https": 'https://8.219.97.248:80'
+            "https": 'http://8.219.97.248:80'
         }
         s = requests.Session()
         url_data = "https://www.tokocrypto.com/v1/market/trading-pairs"
