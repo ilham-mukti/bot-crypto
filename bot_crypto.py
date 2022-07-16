@@ -13,9 +13,29 @@ class BotCrypto:
             'limit': '1000',
         }
 
+        self.headers = {
+            'authority': 'www.tokocrypto.com',
+            'accept': 'application/json, text/plain, */*',
+            'accept-language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7',
+            'device': '4',
+            'deviceno': 'b33ad919cf38f746bea88654d039769a',
+            'language': 'id',
+            'referer': 'https://www.tokocrypto.com/markets',
+            'sec-ch-ua': '".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"',
+            'sec-ch-ua-mobile': '?0',
+            'sec-ch-ua-platform': '"Windows"',
+            'sec-fetch-dest': 'empty',
+            'sec-fetch-mode': 'cors',
+            'sec-fetch-site': 'same-origin',
+            'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36',
+            'x-trace-id': 'a917dd74-d1b0-4104-9848-69193501c1b0',
+        }
+
     def request_data(self):
+        s = requests.Session()
         url_data = "https://www.tokocrypto.com/v1/market/trading-pairs"
-        response = requests.get(url_data, params=self.params).json()
+        response = s.get(url_data, params=self.params, headers=self.headers)
+        response = response.json()
         results = response['data']['list']
 
         my_dict = {}
