@@ -1,5 +1,10 @@
 import requests
 
-url_data = "https://www.binance.info/bapi/composite/v1/public/marketing/symbol/list"
-response = requests.get(url_data).json()
+proxy = {
+    "http": 'http://138.68.238.19/:31028',
+    "http": 'http://170.39.194.16/:3128' 
+}
+s = requests.Session()
+url_data = "https://www.tokocrypto.com/v1/market/trading-pairs?quoteAsset=USDT&offset=0&limit=10"
+response= s.get(url_data, proxies=proxy).json()
 print(response)
