@@ -19,12 +19,10 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests
-          pip install datetime          
-          
+          pip install requests          
       - name: Execute Script
         run: |
-          python bot_crypto.py
+          python ini_tes.py
       - name: Commit File
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
