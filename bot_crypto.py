@@ -48,17 +48,20 @@ class BotCrypto:
         }
 
     def request_data(self):
-        url_data = "https://www.tokocrypto.com/v1/market/trading-pairs"
-        response = requests.get(url_data, params=self.params, cookies=self.cookies, headers=self.headers).json()
-        results = response['data']['list']
+        try:
+            url_data = "https://www.tokocrypto.com/v1/market/trading-pairs"
+            response = requests.get(url_data, params=self.params, cookies=self.cookies, headers=self.headers).json()
+            results = response['data']['list']
 
-        my_dict = {}
-        for data in results:
-            name_pairs = data['symbol']
-            price = float(data['price'])
-            my_dict[name_pairs] = price
-        return my_dict
-
+            my_dict = {}
+            for data in results:
+                name_pairs = data['symbol']
+                price = float(data['price'])
+                my_dict[name_pairs] = price
+            return my_dict
+        except:
+            print("tidak ada")
+            
     def create_file(self, data):
         f = open(self.output_file, 'w')
         f.write(str(data))
@@ -78,7 +81,7 @@ class BotCrypto:
 
             dict_coin_up = {}
             for key, value in diff.items():
-                if value >= 2:
+                if value >= 0.2:
                     print(f"{key} -> {value} -> Buy")
 
                     dict_coin_up[key] = value
