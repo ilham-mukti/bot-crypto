@@ -78,7 +78,7 @@ class BotCrypto:
 
             dict_coin_up = {}
             for key, value in diff.items():
-                if value >= 0.001:
+                if value >= 2:
                     print(f"{key} -> {value} -> Buy")
 
                     dict_coin_up[key] = value
