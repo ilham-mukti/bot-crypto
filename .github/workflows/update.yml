@@ -21,7 +21,7 @@ jobs:
         run: |
           pip install requests
           pip install datetime
-                  
+          pip install cloudscraper                  
       - name: Execute Script
         run: |
           python ini_tes.py
