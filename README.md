@@ -1,3 +1,5 @@
-# Data koin yang naik cepat 2022-07-16 19:51:32.323385
+# Data koin yang naik cepat 2022-07-16 20:07:59.890785
 
-* FIDA_USDT -> Meningkat 21.32%
+* BOND_USDT -> Meningkat 4.97%
+* KEY_USDT -> Meningkat 3.55%
+* QUICK_USDT -> Meningkat 3.11%
