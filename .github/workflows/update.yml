@@ -31,7 +31,7 @@ jobs:
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add .
-          now=$(TZ=UTC+7)
+          now=$(TZ=":Asia/Jakarta" date)
           git commit -m "Update $now"
       - name: Push Changes
         uses: ad-m/github-push-action@master
