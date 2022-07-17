@@ -2,7 +2,7 @@ name: Update Peningkatan
 
 on:
   schedule:
-    - cron: "*/10 * * * *" #run every 10 minutes
+    - cron: "*/40 * * * *" #run every 10 minutes
 
 jobs:
   run:
