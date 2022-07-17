@@ -14,9 +14,9 @@ class BotCrypto:
         }
 
     def request_data(self):
-        s = requests.Session()
+        proxy = {"http": 'http://8.219.97.248:80'}
         url_data = "https://www.tokocrypto.com/v1/market/trading-pairs"
-        response = s.get(url_data, params=self.params, headers=self.headers)
+        response = requests.get(url_data, params=self.params, proxies=proxy)
         response = response.json()
         results = response['data']['list']
         
