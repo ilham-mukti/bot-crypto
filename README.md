@@ -1,5 +1,4 @@
-# Data koin yang naik cepat 2022-07-18 05:20:56.370637+07:00
+# Data koin yang naik cepat 2022-07-18 05:47:57.485107+07:00
 
-* GTO_USDT -> Meningkat 10.52%
-* LEVER_USDT -> Meningkat 4.0%
-* TCT_USDT -> Meningkat 3.26%
+* TFUEL_USDT -> Meningkat 3.55%
+* YFII_USDT -> Meningkat 7.44%
