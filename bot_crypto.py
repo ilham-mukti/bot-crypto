@@ -1,8 +1,8 @@
 import requests
 import os 
-import json
 import ast
-import datetime
+from datetime import datetime
+from pytz import timezone
 
 class BotCrypto:
     def __init__(self):
@@ -14,16 +14,12 @@ class BotCrypto:
         }
 
     def request_data(self):
-        proxy = {
-            "http": 'http://8.219.97.248:80',
-            "https": 'http://8.219.97.248:80'
-        }
         s = requests.Session()
         url_data = "https://www.tokocrypto.com/v1/market/trading-pairs"
-        response = s.get(url_data, params=self.params, proxies=proxy)
+        response = s.get(url_data, params=self.params, headers=self.headers)
         response = response.json()
         results = response['data']['list']
-
+        
         my_dict = {}
         for data in results:
             name_pairs = data['symbol']
@@ -61,7 +57,8 @@ class BotCrypto:
             self.update_readme(dict_coin_up)
 
     def update_readme(self, data):
-        now = datetime.datetime.now()
+        jkt = timezone('Asia/Jakarta')
+        now = datetime.now(jkt)
         with open('README.md', 'w') as f:
             f.write(f"# Data koin yang naik cepat {now}\n\n")
 
