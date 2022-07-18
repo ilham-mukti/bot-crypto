@@ -1,12 +1,15 @@
-# Data koin yang naik cepat 2022-07-18 11:57:19.655155+07:00
+# Data koin yang naik cepat 2022-07-18 12:36:21.998090+07:00
 
-* BOND_USDT -> Meningkat 10.45%
-* DAR_USDT -> Meningkat 3.7%
-* DENT_USDT -> Meningkat 3.59%
-* FIDA_USDT -> Meningkat 3.38%
-* GAL_USDT -> Meningkat 9.22%
-* GRT_USDT -> Meningkat 3.12%
-* KDA_USDT -> Meningkat 4.13%
-* KMD_USDT -> Meningkat 5.76%
-* MATIC_USDT -> Meningkat 4.05%
-* MITH_USDT -> Meningkat 3.02%
+* ADAUP_USDT -> Meningkat 3.95%
+* ATM_USDT -> Meningkat 3.04%
+* AVAX_USDT -> Meningkat 3.98%
+* DOTUP_USDT -> Meningkat 3.21%
+* GMT_USDT -> Meningkat 4.65%
+* LRC_USDT -> Meningkat 7.41%
+* MATIC_USDT -> Meningkat 6.88%
+* MINA_USDT -> Meningkat 3.02%
+* MITH_USDT -> Meningkat 8.21%
+* OP_USDT -> Meningkat 4.47%
+* PYR_USDT -> Meningkat 3.31%
+* QI_USDT -> Meningkat 3.13%
+* RUNE_USDT -> Meningkat 4.88%
