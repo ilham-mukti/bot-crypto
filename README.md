@@ -1,3 +1,5 @@
-# Data koin yang naik cepat 2022-07-21 02:49:37.453558+07:00
+# Data koin yang naik cepat 2022-07-21 03:07:06.548476+07:00
 
-* FIS_USDT -> Meningkat 3.72%
+* BTCDOWN_USDT -> Meningkat 3.16%
+* DOTDOWN_USDT -> Meningkat 3.62%
+* MIR_USDT -> Meningkat 3.48%
