@@ -1,3 +1,2 @@
-# Data koin yang naik cepat 2022-07-21 05:41:21.471280+07:00
+# Data koin yang naik cepat 2022-07-21 05:57:10.397267+07:00
 
-* MIR_USDT -> Meningkat 4.03%
