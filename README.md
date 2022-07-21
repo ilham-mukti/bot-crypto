@@ -1,5 +1,4 @@
-# Data koin yang naik cepat 2022-07-21 14:17:20.561691+07:00
+# Data koin yang naik cepat 2022-07-21 14:46:24.796955+07:00
 
-* AKRO_USDT -> Meningkat 3.38%
-* MDT_USDT -> Meningkat 3.4%
-* VIDT_USDT -> Meningkat 3.76%
+* AUTO_USDT -> Meningkat 3.54%
+* RIF_USDT -> Meningkat 13.41%
