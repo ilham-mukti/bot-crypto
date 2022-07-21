@@ -1,3 +1,6 @@
-# Data koin yang naik cepat 2022-07-21 18:15:45.519145+07:00
+# Data koin yang naik cepat 2022-07-21 18:46:26.738736+07:00
 
-* LEVER_USDT -> Meningkat 8.82%
+* DATA_USDT -> Meningkat 3.22%
+* ENS_USDT -> Meningkat 3.45%
+* FIDA_USDT -> Meningkat 13.17%
+* OXT_USDT -> Meningkat 3.32%
