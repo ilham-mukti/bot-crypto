@@ -1,10 +1,6 @@
-# Data koin yang naik cepat 2022-07-21 11:47:51.296369+07:00
+# Data koin yang naik cepat 2022-07-21 12:49:55.997001+07:00
 
-* AUCTION_USDT -> Meningkat 8.32%
-* AUTO_USDT -> Meningkat 3.32%
-* BEAM_USDT -> Meningkat 4.11%
-* FIDA_USDT -> Meningkat 3.92%
-* KMD_USDT -> Meningkat 5.88%
-* NBT_USDT -> Meningkat 3.19%
-* NMR_USDT -> Meningkat 14.61%
-* VIDT_USDT -> Meningkat 3.03%
+* CHESS_USDT -> Meningkat 3.24%
+* POND_USDT -> Meningkat 3.73%
+* REI_USDT -> Meningkat 5.8%
+* VGX_USDT -> Meningkat 7.4%
