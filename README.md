@@ -1,3 +1,2 @@
-# Data koin yang naik cepat 2022-07-21 20:59:19.359739+07:00
+# Data koin yang naik cepat 2022-07-21 21:23:31.679800+07:00
 
-* BOND_USDT -> Meningkat 4.67%
