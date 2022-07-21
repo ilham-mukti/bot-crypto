@@ -1,5 +1,6 @@
-# Data koin yang naik cepat 2022-07-22 03:20:50.145091+07:00
+# Data koin yang naik cepat 2022-07-22 04:18:39.210476+07:00
 
-* APE_USDT -> Meningkat 3.33%
-* FIRO_USDT -> Meningkat 9.13%
-* YFII_USDT -> Meningkat 13.86%
+* ACA_USDT -> Meningkat 17.6%
+* CFX_USDT -> Meningkat 5.72%
+* PYR_USDT -> Meningkat 3.5%
+* VGX_USDT -> Meningkat 8.2%
