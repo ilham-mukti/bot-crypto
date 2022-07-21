@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-07-22 01:57:34.237102+07:00
+# Data koin yang naik cepat 2022-07-22 02:19:53.005928+07:00
 
-* FIRO_USDT -> Meningkat 4.02%
+* FIO_USDT -> Meningkat 13.95%
