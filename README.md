@@ -1,6 +1,5 @@
-# Data koin yang naik cepat 2022-07-22 21:47:34.746600+07:00
+# Data koin yang naik cepat 2022-07-22 22:19:47.074528+07:00
 
-* ACH_USDT -> Meningkat 3.27%
-* MBOX_USDT -> Meningkat 4.75%
-* NBT_USDT -> Meningkat 5.21%
-* SUPER_USDT -> Meningkat 3.79%
+* BOND_USDT -> Meningkat 3.91%
+* EPX_USDT -> Meningkat 3.51%
+* POLS_USDT -> Meningkat 3.06%
