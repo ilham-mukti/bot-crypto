@@ -1,9 +1,9 @@
-# Data koin yang naik cepat 2022-07-22 10:50:46.261599+07:00
+# Data koin yang naik cepat 2022-07-22 12:26:47.438745+07:00
 
-* BOND_USDT -> Meningkat 3.95%
-* FLM_USDT -> Meningkat 3.18%
-* LEVER_USDT -> Meningkat 7.45%
-* NEO_USDT -> Meningkat 3.64%
-* OMG_USDT -> Meningkat 3.16%
-* QTUM_USDT -> Meningkat 5.99%
-* VGX_USDT -> Meningkat 4.28%
+* ACA_USDT -> Meningkat 10.39%
+* ASTR_USDT -> Meningkat 4.79%
+* FLM_USDT -> Meningkat 3.23%
+* KSM_USDT -> Meningkat 6.25%
+* MITH_USDT -> Meningkat 3.02%
+* PNT_USDT -> Meningkat 3.31%
+* YFII_USDT -> Meningkat 3.56%
