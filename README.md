@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-07-22 20:57:25.882497+07:00
+# Data koin yang naik cepat 2022-07-22 21:23:49.701614+07:00
 
-* DOTDOWN_USDT -> Meningkat 3.41%
-* XRPDOWN_USDT -> Meningkat 3.29%
+* BOND_USDT -> Meningkat 3.93%
+* FLM_USDT -> Meningkat 3.98%
