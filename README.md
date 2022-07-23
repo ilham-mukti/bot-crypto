@@ -1,7 +1,7 @@
-# Data koin yang naik cepat 2022-07-23 17:45:38.918993+07:00
+# Data koin yang naik cepat 2022-07-23 18:01:34.599537+07:00
 
-* AKRO_USDT -> Meningkat 4.58%
-* BNBDOWN_USDT -> Meningkat 3.26%
-* COS_USDT -> Meningkat 5.07%
-* MDT_USDT -> Meningkat 8.88%
-* TRB_USDT -> Meningkat 3.7%
+* AGLD_USDT -> Meningkat 4.98%
+* MDT_USDT -> Meningkat 9.03%
+* POND_USDT -> Meningkat 3.24%
+* RNDR_USDT -> Meningkat 7.76%
+* WING_USDT -> Meningkat 12.44%
