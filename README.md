@@ -1,3 +1,5 @@
-# Data koin yang naik cepat 2022-07-24 21:01:39.337332+07:00
+# Data koin yang naik cepat 2022-07-24 21:42:59.501501+07:00
 
-* CHESS_USDT -> Meningkat 4.64%
+* MDX_USDT -> Meningkat 3.24%
+* ORN_USDT -> Meningkat 5.88%
+* UMA_USDT -> Meningkat 3.97%
