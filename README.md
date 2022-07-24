@@ -1,4 +1,3 @@
-# Data koin yang naik cepat 2022-07-24 17:45:35.761888+07:00
+# Data koin yang naik cepat 2022-07-24 18:01:41.322276+07:00
 
-* DOTDOWN_USDT -> Meningkat 3.13%
-* VGX_USDT -> Meningkat 15.5%
+* IDEX_USDT -> Meningkat 3.15%
