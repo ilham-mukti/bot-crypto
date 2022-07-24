@@ -1,3 +1,6 @@
-# Data koin yang naik cepat 2022-07-24 14:01:58.406005+07:00
+# Data koin yang naik cepat 2022-07-24 14:41:52.436605+07:00
 
-* BNT_USDT -> Meningkat 3.2%
+* BOND_USDT -> Meningkat 5.52%
+* MDT_USDT -> Meningkat 5.33%
+* RNDR_USDT -> Meningkat 3.01%
+* VTHO_USDT -> Meningkat 14.38%
