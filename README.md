@@ -1,5 +1,6 @@
-# Data koin yang naik cepat 2022-07-24 15:07:02.443690+07:00
+# Data koin yang naik cepat 2022-07-24 15:48:08.008070+07:00
 
-* LOKA_USDT -> Meningkat 9.56%
-* VOXEL_USDT -> Meningkat 4.07%
-* VTHO_USDT -> Meningkat 17.47%
+* DEXE_USDT -> Meningkat 4.25%
+* FORTH_USDT -> Meningkat 3.32%
+* ORN_USDT -> Meningkat 5.63%
+* RNDR_USDT -> Meningkat 4.59%
