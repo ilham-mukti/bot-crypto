@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-07-24 11:21:05.174596+07:00
+# Data koin yang naik cepat 2022-07-24 12:00:47.691384+07:00
 
-* CTXC_USDT -> Meningkat 3.61%
+* MITH_USDT -> Meningkat 6.41%
