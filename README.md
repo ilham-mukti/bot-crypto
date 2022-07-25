@@ -1,3 +1,2 @@
-# Data koin yang naik cepat 2022-07-25 18:03:33.648712+07:00
+# Data koin yang naik cepat 2022-07-25 18:42:24.551701+07:00
 
-* DEXE_USDT -> Meningkat 4.15%
