@@ -1,3 +1,2 @@
-# Data koin yang naik cepat 2022-07-25 15:51:33.893325+07:00
+# Data koin yang naik cepat 2022-07-25 16:03:11.057146+07:00
 
-* NMR_USDT -> Meningkat 19.54%
