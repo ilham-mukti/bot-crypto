@@ -1,3 +1,2 @@
-# Data koin yang naik cepat 2022-07-28 03:44:04.314388+07:00
+# Data koin yang naik cepat 2022-07-28 04:01:45.713599+07:00
 
-* RAD_USDT -> Meningkat 3.42%
