@@ -1,6 +1,4 @@
-# Data koin yang naik cepat 2022-07-27 11:35:34.526484+07:00
+# Data koin yang naik cepat 2022-07-27 12:13:15.496669+07:00
 
-* BADGER_USDT -> Meningkat 3.69%
-* BEAM_USDT -> Meningkat 10.23%
-* CHESS_USDT -> Meningkat 8.93%
-* PERL_USDT -> Meningkat 4.65%
+* CHESS_USDT -> Meningkat 7.1%
+* PSG_USDT -> Meningkat 4.84%
