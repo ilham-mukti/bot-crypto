@@ -1,3 +1,4 @@
-# Data koin yang naik cepat 2022-07-27 14:01:40.121011+07:00
+# Data koin yang naik cepat 2022-07-27 14:44:25.344852+07:00
 
-* LEVER_USDT -> Meningkat 3.38%
+* CHESS_USDT -> Meningkat 3.55%
+* POND_USDT -> Meningkat 3.11%
