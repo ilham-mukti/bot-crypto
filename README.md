@@ -1,5 +1,5 @@
-# Data koin yang naik cepat 2022-07-27 15:49:36.603327+07:00
+# Data koin yang naik cepat 2022-07-27 16:02:35.132629+07:00
 
-* ALPINE_USDT -> Meningkat 4.51%
-* CLV_USDT -> Meningkat 9.51%
-* RIF_USDT -> Meningkat 18.44%
+* COCOS_USDT -> Meningkat 3.24%
+* MBL_USDT -> Meningkat 3.44%
+* RIF_USDT -> Meningkat 11.39%
