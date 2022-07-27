@@ -1,4 +1,3 @@
-# Data koin yang naik cepat 2022-07-27 17:47:32.155761+07:00
+# Data koin yang naik cepat 2022-07-27 18:02:20.849412+07:00
 
-* CLV_USDT -> Meningkat 8.69%
-* PSG_USDT -> Meningkat 3.13%
+* PSG_USDT -> Meningkat 6.46%
