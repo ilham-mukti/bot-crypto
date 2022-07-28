@@ -1,9 +1,7 @@
-# Data koin yang naik cepat 2022-07-28 21:46:09.208728+07:00
+# Data koin yang naik cepat 2022-07-28 22:03:03.205015+07:00
 
-* ACH_USDT -> Meningkat 6.26%
-* BNX_USDT -> Meningkat 4.67%
-* CHESS_USDT -> Meningkat 3.69%
-* LDO_USDT -> Meningkat 3.0%
-* LIT_USDT -> Meningkat 3.63%
-* MOVR_USDT -> Meningkat 5.15%
-* WING_USDT -> Meningkat 31.52%
+* ATA_USDT -> Meningkat 3.24%
+* AVA_USDT -> Meningkat 7.99%
+* LDO_USDT -> Meningkat 3.37%
+* MOB_USDT -> Meningkat 3.94%
+* ROSE_USDT -> Meningkat 5.34%
