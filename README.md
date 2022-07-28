@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-07-28 12:46:18.728636+07:00
+# Data koin yang naik cepat 2022-07-28 13:07:19.748365+07:00
 
-* BOND_USDT -> Meningkat 3.66%
-* CHESS_USDT -> Meningkat 3.06%
+* RAD_USDT -> Meningkat 4.26%
+* WING_USDT -> Meningkat 24.58%
