@@ -1,5 +1,6 @@
-# Data koin yang naik cepat 2022-07-30 02:40:49.679458+07:00
+# Data koin yang naik cepat 2022-07-30 03:03:57.137942+07:00
 
-* ALPHA_USDT -> Meningkat 3.92%
-* AUCTION_USDT -> Meningkat 4.8%
-* UNFI_USDT -> Meningkat 23.36%
+* AION_USDT -> Meningkat 3.36%
+* DEGO_USDT -> Meningkat 4.18%
+* FORTH_USDT -> Meningkat 3.28%
+* LDO_USDT -> Meningkat 5.08%
