@@ -1,6 +1,5 @@
-# Data koin yang naik cepat 2022-07-30 04:43:01.652140+07:00
+# Data koin yang naik cepat 2022-07-30 05:02:22.763343+07:00
 
-* ALCX_USDT -> Meningkat 6.63%
-* ASR_USDT -> Meningkat 4.06%
-* WING_USDT -> Meningkat 4.54%
-* YFI_USDT -> Meningkat 5.33%
+* ATM_USDT -> Meningkat 3.98%
+* PNT_USDT -> Meningkat 3.44%
+* XVS_USDT -> Meningkat 10.24%
