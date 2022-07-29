@@ -1,6 +1,5 @@
-# Data koin yang naik cepat 2022-07-29 12:49:50.364430+07:00
+# Data koin yang naik cepat 2022-07-29 13:10:15.847631+07:00
 
-* AUCTION_USDT -> Meningkat 10.47%
-* PEOPLE_USDT -> Meningkat 3.51%
-* RVN_USDT -> Meningkat 10.02%
-* WING_USDT -> Meningkat 68.21%
+* LOKA_USDT -> Meningkat 7.69%
+* QI_USDT -> Meningkat 4.05%
+* TLM_USDT -> Meningkat 3.91%
