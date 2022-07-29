@@ -1,32 +1,9 @@
-# Data koin yang naik cepat 2022-07-29 11:32:56.271236+07:00
+# Data koin yang naik cepat 2022-07-29 12:09:33.623985+07:00
 
-* ADAUP_USDT -> Meningkat 5.49%
-* AGLD_USDT -> Meningkat 3.78%
-* ALCX_USDT -> Meningkat 3.59%
-* ALPHA_USDT -> Meningkat 3.1%
-* ANT_USDT -> Meningkat 8.09%
-* AR_USDT -> Meningkat 3.02%
-* AUDIO_USDT -> Meningkat 3.43%
-* BEL_USDT -> Meningkat 3.31%
-* BETA_USDT -> Meningkat 6.85%
-* BTCST_USDT -> Meningkat 29.45%
-* CELO_USDT -> Meningkat 3.11%
-* CHESS_USDT -> Meningkat 3.17%
-* DOTUP_USDT -> Meningkat 6.39%
-* DOT_USDT -> Meningkat 3.81%
-* DYDX_USDT -> Meningkat 3.88%
-* FIL_USDT -> Meningkat 3.2%
-* GALA_USDT -> Meningkat 3.78%
-* GRT_USDT -> Meningkat 7.72%
-* HIGH_USDT -> Meningkat 4.47%
-* KLAY_USDT -> Meningkat 3.7%
-* LAZIO_USDT -> Meningkat 3.26%
-* LDO_USDT -> Meningkat 5.84%
-* LINK_USDT -> Meningkat 3.64%
-* NBS_USDT -> Meningkat 7.36%
-* PEOPLE_USDT -> Meningkat 21.34%
-* RARE_USDT -> Meningkat 3.02%
-* SKL_USDT -> Meningkat 3.25%
-* SRM_USDT -> Meningkat 3.25%
-* SYS_USDT -> Meningkat 3.11%
-* ZEC_USDT -> Meningkat 3.43%
+* BEL_USDT -> Meningkat 5.03%
+* BNT_USDT -> Meningkat 3.04%
+* ETC_USDT -> Meningkat 5.58%
+* GAL_USDT -> Meningkat 3.08%
+* LPT_USDT -> Meningkat 3.05%
+* WING_USDT -> Meningkat 14.64%
+* XVS_USDT -> Meningkat 15.91%
