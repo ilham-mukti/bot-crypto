@@ -1,6 +1,31 @@
-# Data koin yang naik cepat 2022-07-29 20:21:41.755628+07:00
+# Data koin yang naik cepat 2022-07-29 20:57:12.464416+07:00
 
-* DEGO_USDT -> Meningkat 3.73%
-* OG_USDT -> Meningkat 5.8%
-* QI_USDT -> Meningkat 9.2%
-* VOXEL_USDT -> Meningkat 3.35%
+* ACA_USDT -> Meningkat 3.62%
+* ACM_USDT -> Meningkat 10.36%
+* AGLD_USDT -> Meningkat 3.25%
+* ALCX_USDT -> Meningkat 3.28%
+* ALPHA_USDT -> Meningkat 3.61%
+* ALPINE_USDT -> Meningkat 11.44%
+* ASR_USDT -> Meningkat 9.81%
+* ATM_USDT -> Meningkat 8.59%
+* BAR_USDT -> Meningkat 9.32%
+* CHZ_USDT -> Meningkat 5.05%
+* CITY_USDT -> Meningkat 10.04%
+* DF_USDT -> Meningkat 3.3%
+* DOTUP_USDT -> Meningkat 3.33%
+* ETC_USDT -> Meningkat 4.11%
+* ETHUP_USDT -> Meningkat 3.37%
+* LAZIO_USDT -> Meningkat 31.68%
+* LOKA_USDT -> Meningkat 4.95%
+* MASK_USDT -> Meningkat 3.77%
+* MDT_USDT -> Meningkat 3.19%
+* OG_USDT -> Meningkat 8.41%
+* PORTO_USDT -> Meningkat 115.85%
+* PSG_USDT -> Meningkat 10.55%
+* PYR_USDT -> Meningkat 3.05%
+* RLC_USDT -> Meningkat 3.28%
+* SANTOS_USDT -> Meningkat 16.69%
+* SUPER_USDT -> Meningkat 5.19%
+* WING_USDT -> Meningkat 5.44%
+* YFII_USDT -> Meningkat 6.63%
+* YFI_USDT -> Meningkat 4.61%
