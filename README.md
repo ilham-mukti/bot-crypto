@@ -1,9 +1,39 @@
-# Data koin yang naik cepat 2022-07-29 07:31:53.676433+07:00
+# Data koin yang naik cepat 2022-07-29 10:05:44.512234+07:00
 
-* ACA_USDT -> Meningkat 3.24%
-* AUCTION_USDT -> Meningkat 10.16%
-* AXS_USDT -> Meningkat 5.75%
-* BTG_USDT -> Meningkat 7.81%
-* LEVER_USDT -> Meningkat 3.15%
-* PSG_USDT -> Meningkat 5.13%
-* WING_USDT -> Meningkat 19.32%
+* ACA_USDT -> Meningkat 6.27%
+* ALPHA_USDT -> Meningkat 3.12%
+* API3_USDT -> Meningkat 4.26%
+* AXS_USDT -> Meningkat 3.57%
+* BAND_USDT -> Meningkat 3.03%
+* BICO_USDT -> Meningkat 3.15%
+* BOND_USDT -> Meningkat 3.39%
+* BTCST_USDT -> Meningkat 40.6%
+* DENT_USDT -> Meningkat 3.32%
+* DEXE_USDT -> Meningkat 3.32%
+* ETC_USDT -> Meningkat 3.86%
+* FET_USDT -> Meningkat 4.3%
+* FLUX_USDT -> Meningkat 4.33%
+* GAL_USDT -> Meningkat 4.98%
+* GRT_USDT -> Meningkat 10.36%
+* GTC_USDT -> Meningkat 6.91%
+* ICP_USDT -> Meningkat 3.2%
+* IMX_USDT -> Meningkat 11.7%
+* JASMY_USDT -> Meningkat 3.44%
+* KLAY_USDT -> Meningkat 8.0%
+* KNC_USDT -> Meningkat 3.44%
+* LDO_USDT -> Meningkat 3.65%
+* LPT_USDT -> Meningkat 24.67%
+* MATIC_USDT -> Meningkat 4.75%
+* MDT_USDT -> Meningkat 5.89%
+* OP_USDT -> Meningkat 12.55%
+* PEOPLE_USDT -> Meningkat 3.53%
+* PERL_USDT -> Meningkat 5.28%
+* PERP_USDT -> Meningkat 3.71%
+* PYR_USDT -> Meningkat 3.52%
+* QI_USDT -> Meningkat 3.07%
+* QUICK_USDT -> Meningkat 3.22%
+* ROSE_USDT -> Meningkat 4.0%
+* SFP_USDT -> Meningkat 5.78%
+* THETA_USDT -> Meningkat 3.9%
+* XVS_USDT -> Meningkat 6.6%
+* YGG_USDT -> Meningkat 6.76%
