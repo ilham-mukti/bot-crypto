@@ -1,3 +1,6 @@
-# Data koin yang naik cepat 2022-07-31 05:42:37.417492+07:00
+# Data koin yang naik cepat 2022-07-31 06:01:48.188004+07:00
 
-* OP_USDT -> Meningkat 4.98%
+* BOND_USDT -> Meningkat 3.02%
+* BTCST_USDT -> Meningkat 3.34%
+* FRONT_USDT -> Meningkat 3.36%
+* WING_USDT -> Meningkat 3.34%
