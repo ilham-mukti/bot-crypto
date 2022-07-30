@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-07-31 04:42:04.424075+07:00
+# Data koin yang naik cepat 2022-07-31 05:01:48.067419+07:00
 
-* OG_USDT -> Meningkat 6.01%
-* TRB_USDT -> Meningkat 9.93%
+* BTCST_USDT -> Meningkat 4.59%
+* DOTDOWN_USDT -> Meningkat 3.84%
