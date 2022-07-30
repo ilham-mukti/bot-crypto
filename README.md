@@ -1,8 +1,16 @@
-# Data koin yang naik cepat 2022-07-30 06:45:53.129109+07:00
+# Data koin yang naik cepat 2022-07-30 07:27:14.157636+07:00
 
-* FORTH_USDT -> Meningkat 12.46%
-* ICP_USDT -> Meningkat 9.02%
-* IMX_USDT -> Meningkat 4.13%
-* LDO_USDT -> Meningkat 5.24%
-* PORTO_USDT -> Meningkat 3.65%
-* WING_USDT -> Meningkat 4.74%
+* AXS_USDT -> Meningkat 3.46%
+* BTG_USDT -> Meningkat 3.6%
+* CHESS_USDT -> Meningkat 3.15%
+* DEGO_USDT -> Meningkat 4.63%
+* FARM_USDT -> Meningkat 4.6%
+* FIL_USDT -> Meningkat 7.31%
+* FORTH_USDT -> Meningkat 5.12%
+* GALA_USDT -> Meningkat 5.5%
+* HIGH_USDT -> Meningkat 5.29%
+* ICP_USDT -> Meningkat 8.02%
+* IMX_USDT -> Meningkat 6.73%
+* LAZIO_USDT -> Meningkat 4.16%
+* OMG_USDT -> Meningkat 3.53%
+* ZRX_USDT -> Meningkat 4.5%
