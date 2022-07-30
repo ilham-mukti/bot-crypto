@@ -1,7 +1,4 @@
-# Data koin yang naik cepat 2022-07-31 01:47:48.310507+07:00
+# Data koin yang naik cepat 2022-07-31 02:01:29.887296+07:00
 
-* FRONT_USDT -> Meningkat 15.56%
-* OG_USDT -> Meningkat 3.24%
-* QUICK_USDT -> Meningkat 4.2%
-* TOMO_USDT -> Meningkat 3.29%
-* XNO_USDT -> Meningkat 10.1%
+* EPX_USDT -> Meningkat 3.28%
+* WING_USDT -> Meningkat 6.39%
