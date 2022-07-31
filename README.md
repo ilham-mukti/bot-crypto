@@ -1,4 +1,5 @@
-# Data koin yang naik cepat 2022-07-31 12:16:14.243433+07:00
+# Data koin yang naik cepat 2022-07-31 12:42:25.217039+07:00
 
-* GALA_USDT -> Meningkat 5.53%
-* GAL_USDT -> Meningkat 3.09%
+* BTCST_USDT -> Meningkat 18.79%
+* CTXC_USDT -> Meningkat 3.87%
+* NKN_USDT -> Meningkat 3.59%
