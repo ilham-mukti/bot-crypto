@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-08-02 05:45:27.842300+07:00
+# Data koin yang naik cepat 2022-08-02 06:02:19.961180+07:00
 
-* SYS_USDT -> Meningkat 3.05%
-* TRB_USDT -> Meningkat 4.24%
+* BTCST_USDT -> Meningkat 3.51%
+* CHZ_USDT -> Meningkat 3.82%
