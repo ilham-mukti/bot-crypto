@@ -1,7 +1,8 @@
-# Data koin yang naik cepat 2022-08-02 00:04:02.549992+07:00
+# Data koin yang naik cepat 2022-08-02 00:47:35.630388+07:00
 
-* BADGER_USDT -> Meningkat 3.49%
-* BTCST_USDT -> Meningkat 9.03%
-* DOTDOWN_USDT -> Meningkat 3.74%
-* POLS_USDT -> Meningkat 4.45%
-* WAVES_USDT -> Meningkat 3.04%
+* ADADOWN_USDT -> Meningkat 3.53%
+* BNBDOWN_USDT -> Meningkat 3.93%
+* DOTDOWN_USDT -> Meningkat 3.35%
+* GALA_USDT -> Meningkat 5.46%
+* HIVE_USDT -> Meningkat 3.05%
+* TRB_USDT -> Meningkat 3.4%
