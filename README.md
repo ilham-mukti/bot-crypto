@@ -1,13 +1,31 @@
-# Data koin yang naik cepat 2022-08-01 07:36:40.402285+07:00
+# Data koin yang naik cepat 2022-08-01 10:12:57.968844+07:00
 
-* EPX_USDT -> Meningkat 3.43%
-* FLM_USDT -> Meningkat 6.87%
-* GAL_USDT -> Meningkat 5.42%
-* HIVE_USDT -> Meningkat 37.16%
-* ICX_USDT -> Meningkat 3.13%
-* MBOX_USDT -> Meningkat 3.29%
-* PEOPLE_USDT -> Meningkat 6.16%
-* POWR_USDT -> Meningkat 3.07%
-* STORJ_USDT -> Meningkat 4.71%
-* STX_USDT -> Meningkat 3.85%
-* UNFI_USDT -> Meningkat 3.11%
+* ACA_USDT -> Meningkat 4.91%
+* ALPHA_USDT -> Meningkat 3.04%
+* ANKR_USDT -> Meningkat 4.64%
+* ANT_USDT -> Meningkat 7.41%
+* BTTC_USDT -> Meningkat 6.19%
+* CFX_USDT -> Meningkat 3.27%
+* CVC_USDT -> Meningkat 3.61%
+* DODO_USDT -> Meningkat 3.3%
+* DOTUP_USDT -> Meningkat 3.91%
+* DYDX_USDT -> Meningkat 3.21%
+* EPX_USDT -> Meningkat 6.23%
+* ERN_USDT -> Meningkat 3.24%
+* FIDA_USDT -> Meningkat 3.15%
+* FIL_USDT -> Meningkat 6.32%
+* HIVE_USDT -> Meningkat 11.97%
+* IOTA_USDT -> Meningkat 3.82%
+* KSM_USDT -> Meningkat 3.55%
+* MIR_USDT -> Meningkat 3.04%
+* PEOPLE_USDT -> Meningkat 7.74%
+* PLA_USDT -> Meningkat 4.91%
+* QI_USDT -> Meningkat 3.47%
+* ROSE_USDT -> Meningkat 5.38%
+* SHIB_USDT -> Meningkat 3.14%
+* SNX_USDT -> Meningkat 3.15%
+* UNFI_USDT -> Meningkat 4.37%
+* WAVES_USDT -> Meningkat 6.46%
+* WAXP_USDT -> Meningkat 4.13%
+* WING_USDT -> Meningkat 17.65%
+* XVG_USDT -> Meningkat 3.21%
