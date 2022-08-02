@@ -1,4 +1,5 @@
-# Data koin yang naik cepat 2022-08-02 13:14:02.913434+07:00
+# Data koin yang naik cepat 2022-08-02 13:51:31.633775+07:00
 
-* BTCST_USDT -> Meningkat 3.05%
-* LOKA_USDT -> Meningkat 3.52%
+* AION_USDT -> Meningkat 23.88%
+* ERN_USDT -> Meningkat 3.19%
+* MITH_USDT -> Meningkat 9.15%
