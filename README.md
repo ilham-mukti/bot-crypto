@@ -1,3 +1,5 @@
-# Data koin yang naik cepat 2022-08-02 15:08:45.288318+07:00
+# Data koin yang naik cepat 2022-08-02 15:52:07.679990+07:00
 
-* BTCST_USDT -> Meningkat 6.17%
+* BADGER_USDT -> Meningkat 4.07%
+* CTK_USDT -> Meningkat 3.48%
+* WIN_USDT -> Meningkat 12.73%
