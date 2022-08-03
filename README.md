@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-08-03 21:09:18.628350+07:00
+# Data koin yang naik cepat 2022-08-03 21:42:59.539511+07:00
 
-* ENJ_USDT -> Meningkat 3.34%
-* LDO_USDT -> Meningkat 5.59%
+* ANKR_USDT -> Meningkat 3.42%
+* HIVE_USDT -> Meningkat 4.16%
