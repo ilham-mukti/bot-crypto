@@ -1,3 +1,4 @@
-# Data koin yang naik cepat 2022-08-04 00:16:54.398693+07:00
+# Data koin yang naik cepat 2022-08-04 00:44:26.721964+07:00
 
-* TOMO_USDT -> Meningkat 7.87%
+* BTS_USDT -> Meningkat 5.04%
+* FIRO_USDT -> Meningkat 3.18%
