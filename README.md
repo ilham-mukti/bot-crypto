@@ -1,3 +1,2 @@
-# Data koin yang naik cepat 2022-08-03 12:56:23.939556+07:00
+# Data koin yang naik cepat 2022-08-03 13:09:49.832359+07:00
 
-* GAL_USDT -> Meningkat 6.06%
