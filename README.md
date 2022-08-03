@@ -1,3 +1,5 @@
-# Data koin yang naik cepat 2022-08-03 18:01:40.549465+07:00
+# Data koin yang naik cepat 2022-08-03 18:41:35.200024+07:00
 
-* TWT_USDT -> Meningkat 3.43%
+* AUCTION_USDT -> Meningkat 10.98%
+* BETA_USDT -> Meningkat 4.29%
+* PERP_USDT -> Meningkat 10.52%
