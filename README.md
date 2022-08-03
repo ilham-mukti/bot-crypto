@@ -1,4 +1,3 @@
-# Data koin yang naik cepat 2022-08-03 13:51:10.631775+07:00
+# Data koin yang naik cepat 2022-08-03 14:02:08.342002+07:00
 
-* LEVER_USDT -> Meningkat 4.36%
-* RIF_USDT -> Meningkat 4.35%
+* RIF_USDT -> Meningkat 3.73%
