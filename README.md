@@ -1,4 +1,6 @@
-# Data koin yang naik cepat 2022-08-03 16:02:23.619142+07:00
+# Data koin yang naik cepat 2022-08-03 16:45:08.825651+07:00
 
-* ALPACA_USDT -> Meningkat 3.19%
-* DEGO_USDT -> Meningkat 4.26%
+* BTCST_USDT -> Meningkat 3.63%
+* LIT_USDT -> Meningkat 4.4%
+* TORN_USDT -> Meningkat 3.7%
+* TWT_USDT -> Meningkat 3.09%
