@@ -1,9 +1,9 @@
-# Data koin yang naik cepat 2022-08-03 07:35:43.447348+07:00
+# Data koin yang naik cepat 2022-08-03 10:01:46.808959+07:00
 
-* ADADOWN_USDT -> Meningkat 4.42%
-* BNBDOWN_USDT -> Meningkat 4.59%
-* DENT_USDT -> Meningkat 5.37%
-* DOTDOWN_USDT -> Meningkat 5.4%
-* ETHDOWN_USDT -> Meningkat 4.68%
-* NMR_USDT -> Meningkat 3.28%
-* XRPDOWN_USDT -> Meningkat 3.04%
+* ACH_USDT -> Meningkat 3.21%
+* ICP_USDT -> Meningkat 3.08%
+* OP_USDT -> Meningkat 3.74%
+* QUICK_USDT -> Meningkat 3.11%
+* RAY_USDT -> Meningkat 4.41%
+* RIF_USDT -> Meningkat 7.62%
+* RLC_USDT -> Meningkat 3.08%
