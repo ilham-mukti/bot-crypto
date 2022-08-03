@@ -1,3 +1,2 @@
-# Data koin yang naik cepat 2022-08-04 03:45:04.423651+07:00
+# Data koin yang naik cepat 2022-08-04 04:02:19.183416+07:00
 
-* IOTX_USDT -> Meningkat 3.06%
