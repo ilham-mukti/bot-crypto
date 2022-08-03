@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-03 20:22:12.078006+07:00
+# Data koin yang naik cepat 2022-08-03 20:57:32.137558+07:00
 
-* AUCTION_USDT -> Meningkat 10.92%
+* LDO_USDT -> Meningkat 4.98%
