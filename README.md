@@ -1,8 +1,10 @@
-# Data koin yang naik cepat 2022-08-04 20:56:14.107264+07:00
+# Data koin yang naik cepat 2022-08-04 23:06:46.422184+07:00
 
-* ALPINE_USDT -> Meningkat 6.33%
-* C98_USDT -> Meningkat 3.02%
-* FIDA_USDT -> Meningkat 14.42%
-* FXS_USDT -> Meningkat 3.12%
-* LRC_USDT -> Meningkat 5.32%
-* PERP_USDT -> Meningkat 4.17%
+* AXS_USDT -> Meningkat 4.48%
+* CTXC_USDT -> Meningkat 3.18%
+* ENJ_USDT -> Meningkat 9.15%
+* FLOW_USDT -> Meningkat 44.16%
+* SAND_USDT -> Meningkat 3.59%
+* VGX_USDT -> Meningkat 11.59%
+* WAVES_USDT -> Meningkat 3.07%
+* XEC_USDT -> Meningkat 4.27%
