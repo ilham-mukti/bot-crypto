@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-05 00:47:53.063489+07:00
+# Data koin yang naik cepat 2022-08-05 01:04:57.687683+07:00
 
-* OG_USDT -> Meningkat 12.29%
+* RSR_USDT -> Meningkat 3.72%
