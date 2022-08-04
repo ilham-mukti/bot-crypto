@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-05 02:01:42.930528+07:00
+# Data koin yang naik cepat 2022-08-05 02:42:03.445366+07:00
 
-* CTK_USDT -> Meningkat 3.26%
+* MULTI_USDT -> Meningkat 4.47%
