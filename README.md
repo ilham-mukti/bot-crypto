@@ -1,4 +1,3 @@
-# Data koin yang naik cepat 2022-08-05 22:48:03.969001+07:00
+# Data koin yang naik cepat 2022-08-05 23:06:43.444606+07:00
 
-* OG_USDT -> Meningkat 6.33%
-* TWT_USDT -> Meningkat 3.11%
+* GTO_USDT -> Meningkat 3.38%
