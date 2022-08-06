@@ -1,4 +1,5 @@
-# Data koin yang naik cepat 2022-08-06 11:00:29.435878+07:00
+# Data koin yang naik cepat 2022-08-06 11:23:54.673180+07:00
 
-* RAY_USDT -> Meningkat 3.67%
-* SRM_USDT -> Meningkat 7.12%
+* ACA_USDT -> Meningkat 3.27%
+* FIL_USDT -> Meningkat 6.26%
+* ICP_USDT -> Meningkat 3.14%
