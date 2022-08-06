@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-06 13:49:16.919221+07:00
+# Data koin yang naik cepat 2022-08-06 14:01:40.922177+07:00
 
-* MULTI_USDT -> Meningkat 5.51%
+* WING_USDT -> Meningkat 7.77%
