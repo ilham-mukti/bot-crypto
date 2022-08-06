@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-06 15:06:55.177420+07:00
+# Data koin yang naik cepat 2022-08-06 15:47:30.274447+07:00
 
-* UNFI_USDT -> Meningkat 6.52%
+* BADGER_USDT -> Meningkat 4.78%
