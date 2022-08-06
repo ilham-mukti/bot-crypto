@@ -1,3 +1,2 @@
-# Data koin yang naik cepat 2022-08-07 02:41:27.886868+07:00
+# Data koin yang naik cepat 2022-08-07 03:03:02.211859+07:00
 
-* CFX_USDT -> Meningkat 3.19%
