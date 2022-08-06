@@ -1,3 +1,5 @@
-# Data koin yang naik cepat 2022-08-06 16:02:15.169594+07:00
+# Data koin yang naik cepat 2022-08-06 16:43:12.407760+07:00
 
-* FIRO_USDT -> Meningkat 5.26%
+* BEAM_USDT -> Meningkat 3.07%
+* BOND_USDT -> Meningkat 3.68%
+* IDEX_USDT -> Meningkat 3.95%
