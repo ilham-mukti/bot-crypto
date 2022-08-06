@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-06 18:44:08.694235+07:00
+# Data koin yang naik cepat 2022-08-06 19:08:10.240908+07:00
 
-* SXP_USDT -> Meningkat 3.93%
+* LEVER_USDT -> Meningkat 5.06%
