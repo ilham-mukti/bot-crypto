@@ -1,4 +1,7 @@
-# Data koin yang naik cepat 2022-08-07 15:06:57.178669+07:00
+# Data koin yang naik cepat 2022-08-07 16:43:38.034569+07:00
 
-* CHESS_USDT -> Meningkat 3.82%
-* OG_USDT -> Meningkat 5.68%
+* OG_USDT -> Meningkat 10.52%
+* PERL_USDT -> Meningkat 3.45%
+* QNT_USDT -> Meningkat 3.04%
+* SLP_USDT -> Meningkat 7.57%
+* ZEC_USDT -> Meningkat 3.37%
