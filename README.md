@@ -1,3 +1,4 @@
-# Data koin yang naik cepat 2022-08-07 11:03:07.941414+07:00
+# Data koin yang naik cepat 2022-08-07 11:52:52.465195+07:00
 
-* OG_USDT -> Meningkat 3.43%
+* BOND_USDT -> Meningkat 5.55%
+* MOVR_USDT -> Meningkat 8.48%
