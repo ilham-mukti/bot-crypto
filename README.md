@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-08-07 17:04:02.727996+07:00
+# Data koin yang naik cepat 2022-08-07 17:44:39.957399+07:00
 
-* SLP_USDT -> Meningkat 7.87%
-* SPELL_USDT -> Meningkat 6.27%
+* DCR_USDT -> Meningkat 4.46%
+* SCRT_USDT -> Meningkat 3.19%
