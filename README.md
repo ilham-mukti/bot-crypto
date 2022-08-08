@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-09 01:50:39.296116+07:00
+# Data koin yang naik cepat 2022-08-09 02:01:23.308415+07:00
 
-* TORN_USDT -> Meningkat 3.71%
+* RIF_USDT -> Meningkat 3.55%
