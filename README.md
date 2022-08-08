@@ -1,5 +1,4 @@
-# Data koin yang naik cepat 2022-08-08 14:42:03.126858+07:00
+# Data koin yang naik cepat 2022-08-08 15:09:01.786373+07:00
 
-* KDA_USDT -> Meningkat 5.05%
-* SCRT_USDT -> Meningkat 5.16%
-* WING_USDT -> Meningkat 4.28%
+* DOTUP_USDT -> Meningkat 3.41%
+* SCRT_USDT -> Meningkat 5.74%
