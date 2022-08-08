@@ -1,4 +1,5 @@
-# Data koin yang naik cepat 2022-08-08 07:27:23.520057+07:00
+# Data koin yang naik cepat 2022-08-08 09:51:41.256836+07:00
 
-* FLOW_USDT -> Meningkat 5.36%
-* STX_USDT -> Meningkat 4.72%
+* FIL_USDT -> Meningkat 3.27%
+* FLOW_USDT -> Meningkat 7.49%
+* NEAR_USDT -> Meningkat 3.09%
