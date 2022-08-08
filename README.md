@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-08-09 00:00:37.868544+07:00
+# Data koin yang naik cepat 2022-08-09 00:46:34.714948+07:00
 
-* AVA_USDT -> Meningkat 3.49%
-* XLM_USDT -> Meningkat 3.18%
+* IDEX_USDT -> Meningkat 4.77%
+* REN_USDT -> Meningkat 6.64%
