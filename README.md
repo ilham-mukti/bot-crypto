@@ -1,5 +1,4 @@
-# Data koin yang naik cepat 2022-08-08 18:41:16.672054+07:00
+# Data koin yang naik cepat 2022-08-08 19:09:28.280482+07:00
 
-* ARPA_USDT -> Meningkat 3.21%
-* MULTI_USDT -> Meningkat 4.37%
-* RSR_USDT -> Meningkat 4.15%
+* AVA_USDT -> Meningkat 3.23%
+* MULTI_USDT -> Meningkat 17.98%
