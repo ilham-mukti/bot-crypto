@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-08-09 23:06:02.183735+07:00
+# Data koin yang naik cepat 2022-08-10 00:00:14.414802+07:00
 
-* ACH_USDT -> Meningkat 3.49%
-* OG_USDT -> Meningkat 4.08%
+* SPELL_USDT -> Meningkat 9.07%
+* TRB_USDT -> Meningkat 5.59%
