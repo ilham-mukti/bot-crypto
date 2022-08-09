@@ -1,5 +1,4 @@
-# Data koin yang naik cepat 2022-08-09 21:04:00.235113+07:00
+# Data koin yang naik cepat 2022-08-09 21:43:20.124961+07:00
 
-* ADADOWN_USDT -> Meningkat 3.51%
-* DOTDOWN_USDT -> Meningkat 3.78%
-* ETHDOWN_USDT -> Meningkat 3.07%
+* DOTDOWN_USDT -> Meningkat 3.11%
+* OG_USDT -> Meningkat 3.89%
