@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-10 05:02:35.908042+07:00
+# Data koin yang naik cepat 2022-08-10 05:44:51.222608+07:00
 
-* DEXE_USDT -> Meningkat 4.5%
+* AUCTION_USDT -> Meningkat 3.43%
