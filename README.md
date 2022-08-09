@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-10 01:04:58.360865+07:00
+# Data koin yang naik cepat 2022-08-10 01:49:54.231587+07:00
 
-* FIO_USDT -> Meningkat 5.05%
+* TRB_USDT -> Meningkat 4.82%
