@@ -1,7 +1,8 @@
-# Data koin yang naik cepat 2022-08-09 09:57:43.526744+07:00
+# Data koin yang naik cepat 2022-08-09 10:57:16.212263+07:00
 
-* DOTDOWN_USDT -> Meningkat 6.39%
-* MINA_USDT -> Meningkat 3.08%
-* REN_USDT -> Meningkat 17.07%
-* ZEC_USDT -> Meningkat 5.31%
-* ZEN_USDT -> Meningkat 5.59%
+* BTS_USDT -> Meningkat 3.0%
+* DGB_USDT -> Meningkat 21.09%
+* GMT_USDT -> Meningkat 3.84%
+* SFP_USDT -> Meningkat 3.46%
+* TORN_USDT -> Meningkat 3.74%
+* XNO_USDT -> Meningkat 3.48%
