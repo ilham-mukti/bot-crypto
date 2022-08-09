@@ -1,4 +1,5 @@
-# Data koin yang naik cepat 2022-08-09 16:45:25.600831+07:00
+# Data koin yang naik cepat 2022-08-09 17:46:48.335663+07:00
 
-* ANC_USDT -> Meningkat 6.68%
-* MIR_USDT -> Meningkat 3.41%
+* ETHDOWN_USDT -> Meningkat 3.42%
+* FIO_USDT -> Meningkat 3.28%
+* TRB_USDT -> Meningkat 3.07%
