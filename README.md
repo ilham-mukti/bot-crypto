@@ -1,3 +1,4 @@
-# Data koin yang naik cepat 2022-08-09 22:03:55.146868+07:00
+# Data koin yang naik cepat 2022-08-09 22:49:12.822663+07:00
 
-* LINA_USDT -> Meningkat 3.19%
+* NEXO_USDT -> Meningkat 3.25%
+* OG_USDT -> Meningkat 4.71%
