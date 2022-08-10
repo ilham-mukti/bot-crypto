@@ -1,4 +1,5 @@
-# Data koin yang naik cepat 2022-08-10 16:03:05.697795+07:00
+# Data koin yang naik cepat 2022-08-10 16:45:07.731920+07:00
 
-* MFT_USDT -> Meningkat 4.65%
-* NEXO_USDT -> Meningkat 3.26%
+* DCR_USDT -> Meningkat 8.73%
+* LTO_USDT -> Meningkat 3.49%
+* SC_USDT -> Meningkat 5.24%
