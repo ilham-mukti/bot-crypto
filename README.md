@@ -1,4 +1,5 @@
-# Data koin yang naik cepat 2022-08-10 14:02:34.873285+07:00
+# Data koin yang naik cepat 2022-08-10 14:42:41.607501+07:00
 
-* MBL_USDT -> Meningkat 3.95%
-* MFT_USDT -> Meningkat 10.64%
+* LAZIO_USDT -> Meningkat 3.41%
+* PORTO_USDT -> Meningkat 3.45%
+* SANTOS_USDT -> Meningkat 7.02%
