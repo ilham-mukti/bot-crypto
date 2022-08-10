@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-11 05:02:17.510993+07:00
+# Data koin yang naik cepat 2022-08-11 05:44:08.391158+07:00
 
-* MFT_USDT -> Meningkat 4.05%
+* MULTI_USDT -> Meningkat 3.07%
