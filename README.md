@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-11 02:01:56.352742+07:00
+# Data koin yang naik cepat 2022-08-11 02:40:47.843182+07:00
 
-* NBS_USDT -> Meningkat 3.4%
+* INJ_USDT -> Meningkat 3.71%
