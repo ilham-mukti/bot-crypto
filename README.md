@@ -1,4 +1,5 @@
-# Data koin yang naik cepat 2022-08-10 12:42:17.519770+07:00
+# Data koin yang naik cepat 2022-08-10 13:08:47.892639+07:00
 
-* MFT_USDT -> Meningkat 5.8%
-* SPELL_USDT -> Meningkat 4.13%
+* KEY_USDT -> Meningkat 3.85%
+* MBL_USDT -> Meningkat 3.63%
+* MFT_USDT -> Meningkat 11.14%
