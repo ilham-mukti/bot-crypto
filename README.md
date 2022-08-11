@@ -1,3 +1,4 @@
-# Data koin yang naik cepat 2022-08-11 16:03:38.699660+07:00
+# Data koin yang naik cepat 2022-08-11 16:45:47.059170+07:00
 
-* TROY_USDT -> Meningkat 4.83%
+* ORN_USDT -> Meningkat 3.71%
+* WOO_USDT -> Meningkat 3.1%
