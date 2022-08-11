@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-11 17:03:17.908093+07:00
+# Data koin yang naik cepat 2022-08-11 17:46:33.033160+07:00
 
-* RLC_USDT -> Meningkat 3.43%
+* INJ_USDT -> Meningkat 8.25%
