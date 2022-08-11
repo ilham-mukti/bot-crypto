@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-11 18:41:42.962364+07:00
+# Data koin yang naik cepat 2022-08-11 19:11:21.585146+07:00
 
-* INJ_USDT -> Meningkat 3.41%
+* WAN_USDT -> Meningkat 3.63%
