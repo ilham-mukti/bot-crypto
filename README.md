@@ -1,7 +1,7 @@
-# Data koin yang naik cepat 2022-08-11 20:21:58.921731+07:00
+# Data koin yang naik cepat 2022-08-11 20:56:19.297730+07:00
 
-* BTG_USDT -> Meningkat 4.17%
-* ETC_USDT -> Meningkat 6.86%
-* MOB_USDT -> Meningkat 3.69%
-* TOMO_USDT -> Meningkat 6.17%
-* TROY_USDT -> Meningkat 3.6%
+* BTG_USDT -> Meningkat 5.32%
+* CFX_USDT -> Meningkat 3.21%
+* RVN_USDT -> Meningkat 6.93%
+* TOMO_USDT -> Meningkat 10.32%
+* UNI_USDT -> Meningkat 3.59%
