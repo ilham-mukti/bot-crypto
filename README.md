@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-11 14:42:46.713787+07:00
+# Data koin yang naik cepat 2022-08-11 15:07:33.049218+07:00
 
-* BTCST_USDT -> Meningkat 4.45%
+* STMX_USDT -> Meningkat 3.35%
