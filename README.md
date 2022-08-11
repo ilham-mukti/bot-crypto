@@ -1,2 +1,3 @@
-# Data koin yang naik cepat 2022-08-12 04:02:31.086944+07:00
+# Data koin yang naik cepat 2022-08-12 04:43:57.192573+07:00
 
+* AION_USDT -> Meningkat 3.13%
