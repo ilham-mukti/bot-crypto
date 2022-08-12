@@ -1,3 +1,5 @@
-# Data koin yang naik cepat 2022-08-13 04:43:15.755890+07:00
+# Data koin yang naik cepat 2022-08-13 05:05:01.311617+07:00
 
-* BAR_USDT -> Meningkat 4.11%
+* COS_USDT -> Meningkat 3.09%
+* MLN_USDT -> Meningkat 4.1%
+* UMA_USDT -> Meningkat 7.26%
