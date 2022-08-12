@@ -1,3 +1,4 @@
-# Data koin yang naik cepat 2022-08-12 22:02:24.121589+07:00
+# Data koin yang naik cepat 2022-08-12 22:50:01.108556+07:00
 
-* FLUX_USDT -> Meningkat 3.61%
+* TORN_USDT -> Meningkat 4.0%
+* TRU_USDT -> Meningkat 3.85%
