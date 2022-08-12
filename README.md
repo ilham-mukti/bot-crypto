@@ -1,3 +1,5 @@
-# Data koin yang naik cepat 2022-08-12 18:01:51.435641+07:00
+# Data koin yang naik cepat 2022-08-12 18:40:54.595901+07:00
 
-* QI_USDT -> Meningkat 5.69%
+* HARD_USDT -> Meningkat 3.11%
+* OG_USDT -> Meningkat 3.63%
+* SPELL_USDT -> Meningkat 3.17%
