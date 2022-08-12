@@ -1,5 +1,3 @@
-# Data koin yang naik cepat 2022-08-13 00:46:38.764382+07:00
+# Data koin yang naik cepat 2022-08-13 01:06:46.999664+07:00
 
-* BEL_USDT -> Meningkat 4.73%
-* EPX_USDT -> Meningkat 5.56%
-* OOKI_USDT -> Meningkat 22.19%
+* AKRO_USDT -> Meningkat 3.77%
