@@ -1,3 +1,4 @@
-# Data koin yang naik cepat 2022-08-13 19:10:11.957013+07:00
+# Data koin yang naik cepat 2022-08-13 20:04:30.585926+07:00
 
-* FORTH_USDT -> Meningkat 3.79%
+* MITH_USDT -> Meningkat 3.26%
+* UMA_USDT -> Meningkat 11.53%
