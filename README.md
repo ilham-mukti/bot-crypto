@@ -1,3 +1,4 @@
-# Data koin yang naik cepat 2022-08-13 16:02:21.715554+07:00
+# Data koin yang naik cepat 2022-08-13 16:43:21.452203+07:00
 
-* OOKI_USDT -> Meningkat 5.43%
+* FIDA_USDT -> Meningkat 3.08%
+* UMA_USDT -> Meningkat 6.5%
