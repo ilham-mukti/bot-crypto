@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-14 02:01:40.773403+07:00
+# Data koin yang naik cepat 2022-08-14 02:40:48.281329+07:00
 
-* DIA_USDT -> Meningkat 6.08%
+* POLS_USDT -> Meningkat 4.17%
