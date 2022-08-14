@@ -1,3 +1,4 @@
-# Data koin yang naik cepat 2022-08-14 12:07:27.018674+07:00
+# Data koin yang naik cepat 2022-08-14 12:42:00.754810+07:00
 
-* SHIB_USDT -> Meningkat 3.97%
+* LRC_USDT -> Meningkat 3.15%
+* SHIB_USDT -> Meningkat 5.4%
