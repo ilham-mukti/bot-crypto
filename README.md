@@ -1,3 +1,4 @@
-# Data koin yang naik cepat 2022-08-15 06:43:22.502808+07:00
+# Data koin yang naik cepat 2022-08-15 07:31:54.450392+07:00
 
-* SANTOS_USDT -> Meningkat 4.91%
+* STMX_USDT -> Meningkat 3.09%
+* ZIL_USDT -> Meningkat 3.3%
