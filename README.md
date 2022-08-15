@@ -1,4 +1,5 @@
-# Data koin yang naik cepat 2022-08-16 03:03:11.026569+07:00
+# Data koin yang naik cepat 2022-08-16 03:45:02.762964+07:00
 
-* AION_USDT -> Meningkat 6.55%
-* SPELL_USDT -> Meningkat 12.36%
+* BTCST_USDT -> Meningkat 4.35%
+* SLP_USDT -> Meningkat 4.13%
+* SPELL_USDT -> Meningkat 8.33%
