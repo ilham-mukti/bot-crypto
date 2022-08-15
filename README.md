@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-15 12:30:58.297715+07:00
+# Data koin yang naik cepat 2022-08-15 12:53:50.162243+07:00
 
-* SUPER_USDT -> Meningkat 4.14%
+* CVC_USDT -> Meningkat 5.24%
