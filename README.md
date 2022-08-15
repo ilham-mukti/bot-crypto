@@ -1,3 +1,5 @@
-# Data koin yang naik cepat 2022-08-16 05:45:11.936092+07:00
+# Data koin yang naik cepat 2022-08-16 06:03:17.587135+07:00
 
-* AION_USDT -> Meningkat 5.08%
+* ADADOWN_USDT -> Meningkat 3.08%
+* DOTDOWN_USDT -> Meningkat 3.76%
+* UNFI_USDT -> Meningkat 3.14%
