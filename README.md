@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-15 14:42:15.056356+07:00
+# Data koin yang naik cepat 2022-08-15 15:07:54.015085+07:00
 
-* API3_USDT -> Meningkat 3.76%
+* FIO_USDT -> Meningkat 3.88%
