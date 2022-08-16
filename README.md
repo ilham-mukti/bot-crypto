@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-17 02:40:48.301659+07:00
+# Data koin yang naik cepat 2022-08-17 03:03:15.653562+07:00
 
-* BOND_USDT -> Meningkat 4.26%
+* INJ_USDT -> Meningkat 4.01%
