@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-08-16 14:40:58.085213+07:00
+# Data koin yang naik cepat 2022-08-16 15:06:28.928359+07:00
 
-* DEGO_USDT -> Meningkat 3.36%
-* XMR_USDT -> Meningkat 3.0%
+* ANKR_USDT -> Meningkat 3.23%
+* WING_USDT -> Meningkat 3.35%
