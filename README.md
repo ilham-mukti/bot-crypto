@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-08-16 15:06:28.928359+07:00
+# Data koin yang naik cepat 2022-08-16 15:44:01.873266+07:00
 
-* ANKR_USDT -> Meningkat 3.23%
-* WING_USDT -> Meningkat 3.35%
+* DOGE_USDT -> Meningkat 4.56%
+* VGX_USDT -> Meningkat 14.38%
