@@ -1,4 +1,5 @@
-# Data koin yang naik cepat 2022-08-16 21:42:28.083880+07:00
+# Data koin yang naik cepat 2022-08-16 22:04:07.476599+07:00
 
-* SPELL_USDT -> Meningkat 6.19%
-* YFII_USDT -> Meningkat 13.7%
+* BTCST_USDT -> Meningkat 4.52%
+* FIL_USDT -> Meningkat 3.06%
+* UNFI_USDT -> Meningkat 4.16%
