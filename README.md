@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-08-16 15:44:01.873266+07:00
+# Data koin yang naik cepat 2022-08-16 16:03:27.813247+07:00
 
-* DOGE_USDT -> Meningkat 4.56%
-* VGX_USDT -> Meningkat 14.38%
+* BTCST_USDT -> Meningkat 5.18%
+* VGX_USDT -> Meningkat 6.15%
