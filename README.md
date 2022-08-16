@@ -1,4 +1,5 @@
-# Data koin yang naik cepat 2022-08-16 16:03:27.813247+07:00
+# Data koin yang naik cepat 2022-08-16 16:40:54.527271+07:00
 
-* BTCST_USDT -> Meningkat 5.18%
-* VGX_USDT -> Meningkat 6.15%
+* BOND_USDT -> Meningkat 3.45%
+* FLUX_USDT -> Meningkat 3.52%
+* ROSE_USDT -> Meningkat 3.1%
