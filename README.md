@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-08-18 02:41:14.166704+07:00
+# Data koin yang naik cepat 2022-08-18 03:04:02.309862+07:00
 
-* ARPA_USDT -> Meningkat 4.23%
-* FLUX_USDT -> Meningkat 9.7%
+* CFX_USDT -> Meningkat 3.45%
+* TROY_USDT -> Meningkat 5.0%
