@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-18 06:02:32.529380+07:00
+# Data koin yang naik cepat 2022-08-18 06:44:12.744398+07:00
 
-* EPX_USDT -> Meningkat 5.55%
+* TROY_USDT -> Meningkat 3.11%
