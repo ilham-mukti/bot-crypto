@@ -1,3 +1,4 @@
-# Data koin yang naik cepat 2022-08-17 06:43:20.681089+07:00
+# Data koin yang naik cepat 2022-08-17 07:33:07.934440+07:00
 
-* KEY_USDT -> Meningkat 3.87%
+* CITY_USDT -> Meningkat 7.04%
+* INJ_USDT -> Meningkat 4.16%
