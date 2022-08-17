@@ -1,4 +1,6 @@
-# Data koin yang naik cepat 2022-08-17 23:06:16.312949+07:00
+# Data koin yang naik cepat 2022-08-18 00:04:52.077398+07:00
 
-* RAD_USDT -> Meningkat 10.42%
-* XVS_USDT -> Meningkat 5.22%
+* AION_USDT -> Meningkat 4.28%
+* KNC_USDT -> Meningkat 3.17%
+* SANTOS_USDT -> Meningkat 4.67%
+* TCT_USDT -> Meningkat 4.59%
