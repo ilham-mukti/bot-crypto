@@ -1,4 +1,3 @@
-# Data koin yang naik cepat 2022-08-18 03:04:02.309862+07:00
+# Data koin yang naik cepat 2022-08-18 03:45:07.318768+07:00
 
-* CFX_USDT -> Meningkat 3.45%
-* TROY_USDT -> Meningkat 5.0%
+* RNDR_USDT -> Meningkat 4.43%
