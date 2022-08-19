@@ -1,5 +1,7 @@
-# Data koin yang naik cepat 2022-08-19 18:01:44.242188+07:00
+# Data koin yang naik cepat 2022-08-19 18:41:52.900390+07:00
 
-* SANTOS_USDT -> Meningkat 3.8%
-* TRB_USDT -> Meningkat 5.08%
-* TRIBE_USDT -> Meningkat 4.39%
+* ADADOWN_USDT -> Meningkat 3.7%
+* BTCDOWN_USDT -> Meningkat 3.18%
+* DOTDOWN_USDT -> Meningkat 3.02%
+* ETHDOWN_USDT -> Meningkat 4.55%
+* SPELL_USDT -> Meningkat 8.25%
