@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-08-19 20:58:14.785426+07:00
+# Data koin yang naik cepat 2022-08-19 21:12:03.853699+07:00
 
-* HIVE_USDT -> Meningkat 3.88%
-* PORTO_USDT -> Meningkat 5.26%
+* LAZIO_USDT -> Meningkat 4.09%
+* PORTO_USDT -> Meningkat 6.66%
