@@ -1,5 +1,4 @@
-# Data koin yang naik cepat 2022-08-19 16:46:12.580063+07:00
+# Data koin yang naik cepat 2022-08-19 17:02:31.583860+07:00
 
-* OP_USDT -> Meningkat 3.47%
-* RAD_USDT -> Meningkat 3.31%
-* SPELL_USDT -> Meningkat 9.54%
+* ALPINE_USDT -> Meningkat 3.08%
+* SANTOS_USDT -> Meningkat 6.05%
