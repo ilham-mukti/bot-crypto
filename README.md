@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-08-20 15:49:17.495739+07:00
+# Data koin yang naik cepat 2022-08-20 16:02:03.295975+07:00
 
-* PORTO_USDT -> Meningkat 4.11%
-* TRIBE_USDT -> Meningkat 12.76%
+* FIRO_USDT -> Meningkat 3.5%
+* WING_USDT -> Meningkat 5.78%
