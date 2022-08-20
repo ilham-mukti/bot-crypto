@@ -1,3 +1,4 @@
-# Data koin yang naik cepat 2022-08-20 18:41:08.289378+07:00
+# Data koin yang naik cepat 2022-08-20 19:08:52.508112+07:00
 
-* SCRT_USDT -> Meningkat 7.03%
+* DNT_USDT -> Meningkat 4.33%
+* NKN_USDT -> Meningkat 61.6%
