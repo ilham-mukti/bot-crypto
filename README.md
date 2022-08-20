@@ -1,4 +1,5 @@
-# Data koin yang naik cepat 2022-08-21 03:44:41.567999+07:00
+# Data koin yang naik cepat 2022-08-21 04:02:04.208242+07:00
 
-* ARPA_USDT -> Meningkat 7.58%
-* FLUX_USDT -> Meningkat 3.04%
+* BNBDOWN_USDT -> Meningkat 3.09%
+* DOTDOWN_USDT -> Meningkat 3.62%
+* ETHDOWN_USDT -> Meningkat 4.4%
