@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-08-20 12:42:58.621061+07:00
+# Data koin yang naik cepat 2022-08-20 13:06:52.493613+07:00
 
-* BTCST_USDT -> Meningkat 3.62%
-* RAY_USDT -> Meningkat 4.22%
+* MITH_USDT -> Meningkat 7.12%
+* PORTO_USDT -> Meningkat 3.47%
