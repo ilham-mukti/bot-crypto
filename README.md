@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-21 12:43:11.854287+07:00
+# Data koin yang naik cepat 2022-08-21 13:07:34.435290+07:00
 
-* ALPINE_USDT -> Meningkat 4.46%
+* OG_USDT -> Meningkat 3.67%
