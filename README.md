@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-22 02:01:36.439445+07:00
+# Data koin yang naik cepat 2022-08-22 02:40:47.377361+07:00
 
-* INJ_USDT -> Meningkat 3.3%
+* BTCST_USDT -> Meningkat 3.36%
