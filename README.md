@@ -1,4 +1,3 @@
-# Data koin yang naik cepat 2022-08-22 01:48:56.707598+07:00
+# Data koin yang naik cepat 2022-08-22 02:01:36.439445+07:00
 
-* ACA_USDT -> Meningkat 3.62%
-* NKN_USDT -> Meningkat 5.02%
+* INJ_USDT -> Meningkat 3.3%
