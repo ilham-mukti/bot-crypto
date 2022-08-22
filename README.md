@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-08-22 06:43:36.615700+07:00
+# Data koin yang naik cepat 2022-08-22 07:34:12.742956+07:00
 
-* LAZIO_USDT -> Meningkat 4.63%
-* PORTO_USDT -> Meningkat 5.64%
+* ALPINE_USDT -> Meningkat 3.95%
+* LAZIO_USDT -> Meningkat 5.48%
