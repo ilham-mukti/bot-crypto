@@ -1,9 +1,5 @@
-# Data koin yang naik cepat 2022-08-23 20:19:02.531441+07:00
+# Data koin yang naik cepat 2022-08-23 20:56:54.451730+07:00
 
-* AMP_USDT -> Meningkat 3.71%
-* BAR_USDT -> Meningkat 3.68%
-* CFX_USDT -> Meningkat 3.41%
-* CHZ_USDT -> Meningkat 9.39%
-* DATA_USDT -> Meningkat 3.65%
-* FORTH_USDT -> Meningkat 3.08%
-* OOKI_USDT -> Meningkat 4.66%
+* BTS_USDT -> Meningkat 5.34%
+* DATA_USDT -> Meningkat 3.18%
+* RNDR_USDT -> Meningkat 3.53%
