@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-23 14:00:03.496290+07:00
+# Data koin yang naik cepat 2022-08-23 14:19:00.694835+07:00
 
-* OCEAN_USDT -> Meningkat 4.5%
+* CKB_USDT -> Meningkat 5.49%
