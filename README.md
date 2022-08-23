@@ -1,6 +1,9 @@
-# Data koin yang naik cepat 2022-08-23 18:41:46.331559+07:00
+# Data koin yang naik cepat 2022-08-23 20:19:02.531441+07:00
 
-* ALPACA_USDT -> Meningkat 14.34%
-* AVA_USDT -> Meningkat 3.63%
-* PERL_USDT -> Meningkat 4.5%
-* WAVES_USDT -> Meningkat 4.46%
+* AMP_USDT -> Meningkat 3.71%
+* BAR_USDT -> Meningkat 3.68%
+* CFX_USDT -> Meningkat 3.41%
+* CHZ_USDT -> Meningkat 9.39%
+* DATA_USDT -> Meningkat 3.65%
+* FORTH_USDT -> Meningkat 3.08%
+* OOKI_USDT -> Meningkat 4.66%
