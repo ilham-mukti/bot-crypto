@@ -1,5 +1,7 @@
-# Data koin yang naik cepat 2022-08-23 12:03:36.824553+07:00
+# Data koin yang naik cepat 2022-08-23 13:07:57.978533+07:00
 
-* FORTH_USDT -> Meningkat 14.79%
-* REN_USDT -> Meningkat 3.39%
-* TRIBE_USDT -> Meningkat 5.59%
+* ADADOWN_USDT -> Meningkat 3.65%
+* BNBDOWN_USDT -> Meningkat 4.34%
+* DOTDOWN_USDT -> Meningkat 5.53%
+* ETHDOWN_USDT -> Meningkat 4.14%
+* XRPDOWN_USDT -> Meningkat 3.31%
