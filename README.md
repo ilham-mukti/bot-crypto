@@ -1,3 +1,4 @@
-# Data koin yang naik cepat 2022-08-23 14:19:00.694835+07:00
+# Data koin yang naik cepat 2022-08-23 14:44:38.908441+07:00
 
-* CKB_USDT -> Meningkat 5.49%
+* LAZIO_USDT -> Meningkat 3.21%
+* LDO_USDT -> Meningkat 3.16%
