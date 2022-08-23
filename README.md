@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-23 21:08:34.891754+07:00
+# Data koin yang naik cepat 2022-08-23 21:43:28.932545+07:00
 
-* PORTO_USDT -> Meningkat 3.13%
+* OP_USDT -> Meningkat 4.8%
