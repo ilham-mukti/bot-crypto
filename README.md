@@ -1,4 +1,3 @@
-# Data koin yang naik cepat 2022-08-24 20:55:28.607277+07:00
+# Data koin yang naik cepat 2022-08-24 21:01:50.500178+07:00
 
-* ANKR_USDT -> Meningkat 11.54%
-* UNFI_USDT -> Meningkat 3.02%
+* KMD_USDT -> Meningkat 3.4%
