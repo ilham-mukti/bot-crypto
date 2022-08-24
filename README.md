@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-25 02:09:37.640819+07:00
+# Data koin yang naik cepat 2022-08-25 02:41:00.588712+07:00
 
-* WAXP_USDT -> Meningkat 3.28%
+* BADGER_USDT -> Meningkat 3.73%
