@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-26 05:44:59.652459+07:00
+# Data koin yang naik cepat 2022-08-26 06:04:48.779546+07:00
 
-* SCRT_USDT -> Meningkat 4.81%
+* VGX_USDT -> Meningkat 5.78%
