@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-08-25 17:04:46.065553+07:00
+# Data koin yang naik cepat 2022-08-25 18:02:27.966632+07:00
 
-* ANKR_USDT -> Meningkat 7.93%
-* MFT_USDT -> Meningkat 3.32%
+* FLUX_USDT -> Meningkat 4.4%
+* SHIB_USDT -> Meningkat 4.58%
