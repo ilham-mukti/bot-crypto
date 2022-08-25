@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-08-25 14:03:03.796749+07:00
+# Data koin yang naik cepat 2022-08-25 14:45:25.409111+07:00
 
-* BTCST_USDT -> Meningkat 7.82%
-* ETC_USDT -> Meningkat 3.09%
+* NBT_USDT -> Meningkat 3.6%
+* SKL_USDT -> Meningkat 13.04%
