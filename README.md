@@ -1,4 +1,3 @@
-# Data koin yang naik cepat 2022-08-27 01:51:45.322980+07:00
+# Data koin yang naik cepat 2022-08-27 02:01:36.399171+07:00
 
-* KMD_USDT -> Meningkat 5.75%
-* VGX_USDT -> Meningkat 12.89%
+* NULS_USDT -> Meningkat 4.09%
