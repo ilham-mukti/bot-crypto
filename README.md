@@ -1,3 +1,5 @@
-# Data koin yang naik cepat 2022-08-26 14:04:29.324384+07:00
+# Data koin yang naik cepat 2022-08-26 14:44:28.044282+07:00
 
-* MDX_USDT -> Meningkat 4.21%
+* CFX_USDT -> Meningkat 3.04%
+* MOB_USDT -> Meningkat 4.78%
+* VGX_USDT -> Meningkat 17.07%
