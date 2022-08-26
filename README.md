@@ -1,5 +1,3 @@
-# Data koin yang naik cepat 2022-08-26 13:21:17.262021+07:00
+# Data koin yang naik cepat 2022-08-26 14:04:29.324384+07:00
 
-* MITH_USDT -> Meningkat 3.26%
-* PORTO_USDT -> Meningkat 3.16%
-* VGX_USDT -> Meningkat 20.1%
+* MDX_USDT -> Meningkat 4.21%
