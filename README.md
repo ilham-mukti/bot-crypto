@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-27 20:48:17.695254+07:00
+# Data koin yang naik cepat 2022-08-27 21:01:32.762602+07:00
 
-* BETA_USDT -> Meningkat 3.04%
+* BTCST_USDT -> Meningkat 5.05%
