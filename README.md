@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-08-27 23:04:03.824718+07:00
+# Data koin yang naik cepat 2022-08-27 23:56:44.962453+07:00
 
-* CFX_USDT -> Meningkat 3.05%
-* FLUX_USDT -> Meningkat 12.21%
+* EOS_USDT -> Meningkat 3.15%
+* VGX_USDT -> Meningkat 5.16%
