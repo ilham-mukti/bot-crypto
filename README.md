@@ -1,5 +1,4 @@
-# Data koin yang naik cepat 2022-08-27 15:07:06.663716+07:00
+# Data koin yang naik cepat 2022-08-27 15:49:12.936134+07:00
 
-* ADX_USDT -> Meningkat 6.55%
-* IDEX_USDT -> Meningkat 7.79%
-* NULS_USDT -> Meningkat 3.44%
+* UNFI_USDT -> Meningkat 6.64%
+* VGX_USDT -> Meningkat 6.69%
