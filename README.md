@@ -1,4 +1,3 @@
-# Data koin yang naik cepat 2022-08-28 05:44:01.576980+07:00
+# Data koin yang naik cepat 2022-08-28 06:02:15.729425+07:00
 
-* BICO_USDT -> Meningkat 3.7%
-* BTCST_USDT -> Meningkat 3.09%
+* SANTOS_USDT -> Meningkat 6.23%
