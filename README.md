@@ -1,3 +1,4 @@
-# Data koin yang naik cepat 2022-08-27 22:46:29.211098+07:00
+# Data koin yang naik cepat 2022-08-27 23:04:03.824718+07:00
 
-* ETHDOWN_USDT -> Meningkat 3.1%
+* CFX_USDT -> Meningkat 3.05%
+* FLUX_USDT -> Meningkat 12.21%
