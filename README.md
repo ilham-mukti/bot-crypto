@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-29 05:01:46.534996+07:00
+# Data koin yang naik cepat 2022-08-29 05:44:11.940355+07:00
 
-* DEXE_USDT -> Meningkat 3.67%
+* FLUX_USDT -> Meningkat 3.3%
