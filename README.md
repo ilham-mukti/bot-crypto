@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-08-28 23:04:17.542810+07:00
+# Data koin yang naik cepat 2022-08-28 23:57:11.993701+07:00
 
-* BTCST_USDT -> Meningkat 9.49%
-* RNDR_USDT -> Meningkat 8.37%
+* TORN_USDT -> Meningkat 4.55%
+* XEC_USDT -> Meningkat 4.01%
