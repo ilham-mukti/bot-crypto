@@ -1,3 +1,5 @@
-# Data koin yang naik cepat 2022-08-28 17:05:27.746287+07:00
+# Data koin yang naik cepat 2022-08-28 17:45:54.772120+07:00
 
-* XEC_USDT -> Meningkat 4.98%
+* MBL_USDT -> Meningkat 3.72%
+* SC_USDT -> Meningkat 6.4%
+* XEC_USDT -> Meningkat 35.15%
