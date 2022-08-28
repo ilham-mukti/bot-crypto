@@ -1,4 +1,3 @@
-# Data koin yang naik cepat 2022-08-28 13:06:50.832776+07:00
+# Data koin yang naik cepat 2022-08-28 13:50:54.792792+07:00
 
-* VGX_USDT -> Meningkat 5.31%
-* XEC_USDT -> Meningkat 3.32%
+* TORN_USDT -> Meningkat 6.19%
