@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-29 00:11:46.329233+07:00
+# Data koin yang naik cepat 2022-08-29 01:07:51.874727+07:00
 
-* ACA_USDT -> Meningkat 3.06%
+* DEXE_USDT -> Meningkat 10.29%
