@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-29 22:06:18.354775+07:00
+# Data koin yang naik cepat 2022-08-29 22:48:37.317900+07:00
 
-* LOKA_USDT -> Meningkat 3.29%
+* XEC_USDT -> Meningkat 4.48%
