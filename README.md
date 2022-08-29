@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-08-29 18:42:11.927260+07:00
+# Data koin yang naik cepat 2022-08-29 19:11:40.571568+07:00
 
-* COCOS_USDT -> Meningkat 10.84%
-* MDT_USDT -> Meningkat 4.08%
+* VOXEL_USDT -> Meningkat 3.15%
+* XEC_USDT -> Meningkat 3.18%
