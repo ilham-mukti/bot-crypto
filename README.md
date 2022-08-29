@@ -1,5 +1,5 @@
-# Data koin yang naik cepat 2022-08-29 17:49:01.803172+07:00
+# Data koin yang naik cepat 2022-08-29 18:02:15.083033+07:00
 
-* AION_USDT -> Meningkat 3.15%
-* CTK_USDT -> Meningkat 3.4%
-* DIA_USDT -> Meningkat 13.08%
+* COCOS_USDT -> Meningkat 4.26%
+* IDEX_USDT -> Meningkat 4.26%
+* RARE_USDT -> Meningkat 7.5%
