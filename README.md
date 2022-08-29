@@ -1,3 +1,4 @@
-# Data koin yang naik cepat 2022-08-29 06:45:47.749110+07:00
+# Data koin yang naik cepat 2022-08-29 07:35:30.707979+07:00
 
-* XRPDOWN_USDT -> Meningkat 3.4%
+* BTG_USDT -> Meningkat 7.35%
+* PERP_USDT -> Meningkat 11.51%
