@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-29 21:14:19.989083+07:00
+# Data koin yang naik cepat 2022-08-29 21:44:24.929094+07:00
 
-* LDO_USDT -> Meningkat 5.85%
+* VGX_USDT -> Meningkat 7.54%
