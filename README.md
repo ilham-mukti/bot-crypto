@@ -1,3 +1,2 @@
-# Data koin yang naik cepat 2022-08-31 01:07:13.092341+07:00
+# Data koin yang naik cepat 2022-08-31 01:50:12.467471+07:00
 
-* LAZIO_USDT -> Meningkat 3.06%
