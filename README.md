@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-31 00:47:03.825545+07:00
+# Data koin yang naik cepat 2022-08-31 01:07:13.092341+07:00
 
-* AVA_USDT -> Meningkat 5.33%
+* LAZIO_USDT -> Meningkat 3.06%
