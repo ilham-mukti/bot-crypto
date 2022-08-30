@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-30 16:45:46.509473+07:00
+# Data koin yang naik cepat 2022-08-30 17:03:23.876332+07:00
 
-* RIF_USDT -> Meningkat 4.34%
+* BOND_USDT -> Meningkat 4.73%
