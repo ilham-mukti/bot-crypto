@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-09-01 05:46:32.568995+07:00
+# Data koin yang naik cepat 2022-09-01 06:03:01.353489+07:00
 
-* XVG_USDT -> Meningkat 4.85%
+* MIR_USDT -> Meningkat 4.93%
