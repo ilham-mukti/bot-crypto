@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-08-31 18:41:59.944221+07:00
+# Data koin yang naik cepat 2022-08-31 19:11:36.960881+07:00
 
-* XNO_USDT -> Meningkat 3.46%
+* LAZIO_USDT -> Meningkat 3.23%
