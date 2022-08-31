@@ -1,3 +1,2 @@
-# Data koin yang naik cepat 2022-08-31 17:46:52.372041+07:00
+# Data koin yang naik cepat 2022-08-31 18:01:55.308471+07:00
 
-* PYR_USDT -> Meningkat 5.08%
