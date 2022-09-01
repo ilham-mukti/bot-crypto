@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-09-02 06:06:09.091274+07:00
+# Data koin yang naik cepat 2022-09-02 06:47:17.547379+07:00
 
-* VGX_USDT -> Meningkat 4.34%
+* SYS_USDT -> Meningkat 5.81%
