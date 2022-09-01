@@ -1,4 +1,3 @@
-# Data koin yang naik cepat 2022-09-02 05:45:16.572133+07:00
+# Data koin yang naik cepat 2022-09-02 06:06:09.091274+07:00
 
-* DCR_USDT -> Meningkat 3.69%
-* VGX_USDT -> Meningkat 3.05%
+* VGX_USDT -> Meningkat 4.34%
