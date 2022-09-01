@@ -1,7 +1,4 @@
-# Data koin yang naik cepat 2022-09-01 11:55:39.925143+07:00
+# Data koin yang naik cepat 2022-09-01 12:43:47.740219+07:00
 
-* BAR_USDT -> Meningkat 8.22%
-* CITY_USDT -> Meningkat 7.07%
-* NBT_USDT -> Meningkat 5.61%
-* PORTO_USDT -> Meningkat 8.71%
-* PSG_USDT -> Meningkat 9.8%
+* REI_USDT -> Meningkat 4.6%
+* XVG_USDT -> Meningkat 4.37%
