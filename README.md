@@ -1,3 +1,5 @@
-# Data koin yang naik cepat 2022-09-01 07:30:51.847542+07:00
+# Data koin yang naik cepat 2022-09-01 10:13:14.990143+07:00
 
-* XEC_USDT -> Meningkat 6.54%
+* ANC_USDT -> Meningkat 3.45%
+* BEAM_USDT -> Meningkat 3.25%
+* LAZIO_USDT -> Meningkat 9.6%
