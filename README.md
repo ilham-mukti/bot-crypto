@@ -1,4 +1,3 @@
-# Data koin yang naik cepat 2022-09-01 21:44:18.435385+07:00
+# Data koin yang naik cepat 2022-09-01 22:05:17.152000+07:00
 
-* LOKA_USDT -> Meningkat 3.46%
-* MITH_USDT -> Meningkat 4.72%
+* REI_USDT -> Meningkat 3.05%
