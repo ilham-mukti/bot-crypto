@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-09-03 03:04:11.645180+07:00
+# Data koin yang naik cepat 2022-09-03 03:46:00.737353+07:00
 
-* ALPINE_USDT -> Meningkat 7.04%
+* ASR_USDT -> Meningkat 5.21%
