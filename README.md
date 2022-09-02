@@ -1,3 +1,4 @@
-# Data koin yang naik cepat 2022-09-02 12:07:46.017973+07:00
+# Data koin yang naik cepat 2022-09-02 13:24:00.316046+07:00
 
-* NBT_USDT -> Meningkat 3.18%
+* LAZIO_USDT -> Meningkat 3.05%
+* PORTO_USDT -> Meningkat 5.35%
