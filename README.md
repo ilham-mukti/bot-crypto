@@ -1,4 +1,7 @@
-# Data koin yang naik cepat 2022-09-02 13:24:00.316046+07:00
+# Data koin yang naik cepat 2022-09-02 14:05:53.981119+07:00
 
-* LAZIO_USDT -> Meningkat 3.05%
-* PORTO_USDT -> Meningkat 5.35%
+* BADGER_USDT -> Meningkat 3.07%
+* DCR_USDT -> Meningkat 7.24%
+* FORTH_USDT -> Meningkat 5.23%
+* LOKA_USDT -> Meningkat 3.07%
+* PORTO_USDT -> Meningkat 6.98%
