@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-09-03 14:41:57.224542+07:00
+# Data koin yang naik cepat 2022-09-03 15:07:07.630137+07:00
 
-* AGLD_USDT -> Meningkat 3.87%
-* CLV_USDT -> Meningkat 4.79%
+* AION_USDT -> Meningkat 3.7%
+* CLV_USDT -> Meningkat 9.35%
