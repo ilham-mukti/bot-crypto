@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-09-04 05:02:26.468114+07:00
+# Data koin yang naik cepat 2022-09-04 05:44:36.448073+07:00
 
-* BOND_USDT -> Meningkat 3.3%
+* WING_USDT -> Meningkat 8.91%
