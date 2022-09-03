@@ -1,3 +1,2 @@
-# Data koin yang naik cepat 2022-09-03 12:25:07.686434+07:00
+# Data koin yang naik cepat 2022-09-03 12:51:59.939840+07:00
 
-* FIL_USDT -> Meningkat 4.85%
