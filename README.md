@@ -1,2 +1,3 @@
-# Data koin yang naik cepat 2022-09-05 00:44:41.280061+07:00
+# Data koin yang naik cepat 2022-09-05 01:07:19.102013+07:00
 
+* NBT_USDT -> Meningkat 3.63%
