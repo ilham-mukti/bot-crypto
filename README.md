@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-09-04 14:01:58.580128+07:00
+# Data koin yang naik cepat 2022-09-04 14:41:56.322276+07:00
 
-* CLV_USDT -> Meningkat 4.73%
-* RARE_USDT -> Meningkat 4.37%
+* MOVR_USDT -> Meningkat 3.69%
+* REQ_USDT -> Meningkat 9.31%
