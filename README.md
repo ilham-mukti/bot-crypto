@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-09-05 03:08:06.630009+07:00
+# Data koin yang naik cepat 2022-09-05 03:46:27.178090+07:00
 
-* CTSI_USDT -> Meningkat 3.21%
+* FIRO_USDT -> Meningkat 12.24%
