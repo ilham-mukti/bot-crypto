@@ -1,4 +1,7 @@
-# Data koin yang naik cepat 2022-09-05 10:24:38.272271+07:00
+# Data koin yang naik cepat 2022-09-05 12:07:01.570669+07:00
 
-* DOTUP_USDT -> Meningkat 3.33%
-* REQ_USDT -> Meningkat 5.08%
+* ALPINE_USDT -> Meningkat 3.8%
+* CLV_USDT -> Meningkat 5.85%
+* PORTO_USDT -> Meningkat 5.05%
+* REQ_USDT -> Meningkat 12.05%
+* SYS_USDT -> Meningkat 3.62%
