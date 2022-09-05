@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-09-06 03:46:09.189215+07:00
+# Data koin yang naik cepat 2022-09-06 04:02:18.683835+07:00
 
-* ADAUP_USDT -> Meningkat 3.44%
-* VGX_USDT -> Meningkat 8.1%
+* KMD_USDT -> Meningkat 3.66%
+* VGX_USDT -> Meningkat 4.77%
