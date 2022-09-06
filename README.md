@@ -1,3 +1,4 @@
-# Data koin yang naik cepat 2022-09-07 06:02:38.774070+07:00
+# Data koin yang naik cepat 2022-09-07 06:50:10.337409+07:00
 
-* VGX_USDT -> Meningkat 4.84%
+* AGLD_USDT -> Meningkat 5.42%
+* LAZIO_USDT -> Meningkat 3.77%
