@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-09-06 16:46:22.419839+07:00
+# Data koin yang naik cepat 2022-09-06 17:04:20.737615+07:00
 
-* KEY_USDT -> Meningkat 7.72%
+* VGX_USDT -> Meningkat 5.73%
