@@ -1,3 +1,4 @@
-# Data koin yang naik cepat 2022-09-07 18:02:38.476970+07:00
+# Data koin yang naik cepat 2022-09-07 18:43:18.676948+07:00
 
-* CHESS_USDT -> Meningkat 4.2%
+* OXT_USDT -> Meningkat 5.97%
+* UNFI_USDT -> Meningkat 3.31%
