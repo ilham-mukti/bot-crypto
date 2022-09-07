@@ -1,9 +1,8 @@
-# Data koin yang naik cepat 2022-09-07 07:35:15.639881+07:00
+# Data koin yang naik cepat 2022-09-07 10:26:59.855943+07:00
 
-* ALPINE_USDT -> Meningkat 3.12%
-* HNT_USDT -> Meningkat 3.51%
-* LAZIO_USDT -> Meningkat 6.39%
-* MFT_USDT -> Meningkat 6.44%
-* OG_USDT -> Meningkat 3.62%
-* PORTO_USDT -> Meningkat 3.83%
-* SANTOS_USDT -> Meningkat 7.48%
+* API3_USDT -> Meningkat 3.74%
+* CTK_USDT -> Meningkat 3.81%
+* ETHDOWN_USDT -> Meningkat 3.07%
+* FIRO_USDT -> Meningkat 6.12%
+* RAD_USDT -> Meningkat 3.28%
+* TFUEL_USDT -> Meningkat 4.83%
