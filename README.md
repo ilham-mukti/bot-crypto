@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-09-07 15:23:41.583610+07:00
+# Data koin yang naik cepat 2022-09-07 15:53:37.284761+07:00
 
-* API3_USDT -> Meningkat 3.04%
-* FLUX_USDT -> Meningkat 3.91%
+* FET_USDT -> Meningkat 4.39%
+* FLUX_USDT -> Meningkat 3.37%
