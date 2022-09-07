@@ -1,3 +1,35 @@
-# Data koin yang naik cepat 2022-09-08 03:06:59.173390+07:00
+# Data koin yang naik cepat 2022-09-08 03:50:02.530379+07:00
 
-* XVS_USDT -> Meningkat 3.21%
+* AAVE_USDT -> Meningkat 4.21%
+* ADAUP_USDT -> Meningkat 3.39%
+* ALCX_USDT -> Meningkat 3.57%
+* ALPHA_USDT -> Meningkat 3.65%
+* ATOM_USDT -> Meningkat 4.53%
+* AUCTION_USDT -> Meningkat 3.06%
+* BAL_USDT -> Meningkat 4.49%
+* BNBUP_USDT -> Meningkat 7.07%
+* BTCST_USDT -> Meningkat 4.88%
+* BTCUP_USDT -> Meningkat 3.92%
+* CRV_USDT -> Meningkat 5.87%
+* CVX_USDT -> Meningkat 3.85%
+* DENT_USDT -> Meningkat 3.28%
+* DOTUP_USDT -> Meningkat 4.01%
+* ENJ_USDT -> Meningkat 3.16%
+* ENS_USDT -> Meningkat 4.55%
+* ETC_USDT -> Meningkat 3.97%
+* ETHUP_USDT -> Meningkat 7.27%
+* ETH_USDT -> Meningkat 5.06%
+* FLUX_USDT -> Meningkat 3.47%
+* GTC_USDT -> Meningkat 3.12%
+* HNT_USDT -> Meningkat 4.29%
+* ILV_USDT -> Meningkat 4.6%
+* IMX_USDT -> Meningkat 3.06%
+* LINK_USDT -> Meningkat 3.01%
+* LPT_USDT -> Meningkat 3.42%
+* MC_USDT -> Meningkat 3.44%
+* MKR_USDT -> Meningkat 3.29%
+* OM_USDT -> Meningkat 3.08%
+* SRM_USDT -> Meningkat 3.5%
+* SUSHI_USDT -> Meningkat 5.56%
+* XNO_USDT -> Meningkat 3.02%
+* YFI_USDT -> Meningkat 3.37%
