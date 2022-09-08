@@ -1,4 +1,5 @@
-# Data koin yang naik cepat 2022-09-08 13:26:22.509941+07:00
+# Data koin yang naik cepat 2022-09-08 14:10:17.695968+07:00
 
-* ANC_USDT -> Meningkat 10.84%
-* VGX_USDT -> Meningkat 6.5%
+* ANC_USDT -> Meningkat 7.99%
+* LSK_USDT -> Meningkat 4.26%
+* MIR_USDT -> Meningkat 4.1%
