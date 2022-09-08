@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-09-09 01:54:45.382443+07:00
+# Data koin yang naik cepat 2022-09-09 02:06:51.701967+07:00
 
-* BTS_USDT -> Meningkat 4.17%
-* MULTI_USDT -> Meningkat 11.84%
+* PLA_USDT -> Meningkat 3.13%
+* POLY_USDT -> Meningkat 9.45%
