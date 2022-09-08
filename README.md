@@ -1,9 +1,5 @@
-# Data koin yang naik cepat 2022-09-09 00:52:57.590365+07:00
+# Data koin yang naik cepat 2022-09-09 01:07:20.813941+07:00
 
-* BEAM_USDT -> Meningkat 3.97%
-* MLN_USDT -> Meningkat 4.63%
-* PLA_USDT -> Meningkat 27.14%
-* QI_USDT -> Meningkat 3.04%
-* RNDR_USDT -> Meningkat 4.45%
-* VIDT_USDT -> Meningkat 4.41%
-* WAN_USDT -> Meningkat 3.25%
+* DCR_USDT -> Meningkat 7.37%
+* RNDR_USDT -> Meningkat 18.6%
+* T_USDT -> Meningkat 3.72%
