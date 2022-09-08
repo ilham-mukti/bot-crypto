@@ -1,6 +1,4 @@
-# Data koin yang naik cepat 2022-09-08 10:23:12.856672+07:00
+# Data koin yang naik cepat 2022-09-08 12:01:34.031311+07:00
 
-* DEXE_USDT -> Meningkat 3.67%
-* LSK_USDT -> Meningkat 3.89%
-* SPELL_USDT -> Meningkat 3.64%
-* VGX_USDT -> Meningkat 7.56%
+* ANC_USDT -> Meningkat 6.13%
+* HNT_USDT -> Meningkat 4.04%
