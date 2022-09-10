@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-09-11 04:02:16.322373+07:00
+# Data koin yang naik cepat 2022-09-11 04:45:24.213483+07:00
 
-* MIR_USDT -> Meningkat 6.73%
+* MOVR_USDT -> Meningkat 3.21%
