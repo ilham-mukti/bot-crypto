@@ -1,3 +1,4 @@
-# Data koin yang naik cepat 2022-09-11 06:50:24.206537+07:00
+# Data koin yang naik cepat 2022-09-11 07:32:55.567193+07:00
 
-* FIDA_USDT -> Meningkat 6.15%
+* FIDA_USDT -> Meningkat 11.37%
+* WAVES_USDT -> Meningkat 3.76%
