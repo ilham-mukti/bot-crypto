@@ -1,9 +1,6 @@
-# Data koin yang naik cepat 2022-09-11 20:12:22.443262+07:00
+# Data koin yang naik cepat 2022-09-11 20:52:41.325428+07:00
 
-* AUCTION_USDT -> Meningkat 3.21%
-* DOTUP_USDT -> Meningkat 3.22%
-* FIL_USDT -> Meningkat 6.95%
-* INJ_USDT -> Meningkat 3.22%
-* MDT_USDT -> Meningkat 3.59%
-* NBT_USDT -> Meningkat 3.94%
-* STPT_USDT -> Meningkat 3.9%
+* INJ_USDT -> Meningkat 4.71%
+* POND_USDT -> Meningkat 4.23%
+* QI_USDT -> Meningkat 3.3%
+* XEC_USDT -> Meningkat 5.28%
