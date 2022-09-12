@@ -1,4 +1,3 @@
-# Data koin yang naik cepat 2022-09-13 00:50:57.991903+07:00
+# Data koin yang naik cepat 2022-09-13 01:07:47.049204+07:00
 
-* REEF_USDT -> Meningkat 3.21%
-* VITE_USDT -> Meningkat 3.52%
+* HIGH_USDT -> Meningkat 4.97%
