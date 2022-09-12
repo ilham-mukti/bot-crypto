@@ -1,4 +1,3 @@
-# Data koin yang naik cepat 2022-09-12 14:58:09.691737+07:00
+# Data koin yang naik cepat 2022-09-12 15:17:50.016231+07:00
 
-* POLY_USDT -> Meningkat 3.07%
-* WRX_USDT -> Meningkat 5.52%
+* MDT_USDT -> Meningkat 5.65%
