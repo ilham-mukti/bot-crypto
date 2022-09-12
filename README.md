@@ -1,2 +1,3 @@
-# Data koin yang naik cepat 2022-09-12 18:02:29.974052+07:00
+# Data koin yang naik cepat 2022-09-12 19:12:57.638116+07:00
 
+* DATA_USDT -> Meningkat 5.77%
