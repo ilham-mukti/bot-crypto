@@ -1,9 +1,6 @@
-# Data koin yang naik cepat 2022-09-13 20:28:33.351345+07:00
+# Data koin yang naik cepat 2022-09-13 21:07:40.645722+07:00
 
-* ADADOWN_USDT -> Meningkat 15.65%
-* BNBDOWN_USDT -> Meningkat 12.09%
-* BTCDOWN_USDT -> Meningkat 13.32%
-* DOTDOWN_USDT -> Meningkat 17.58%
-* ETHDOWN_USDT -> Meningkat 15.02%
-* VGX_USDT -> Meningkat 3.13%
-* XRPDOWN_USDT -> Meningkat 9.81%
+* ANC_USDT -> Meningkat 6.62%
+* CHZ_USDT -> Meningkat 3.61%
+* INJ_USDT -> Meningkat 4.15%
+* MIR_USDT -> Meningkat 3.23%
