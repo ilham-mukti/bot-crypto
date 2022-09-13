@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-09-13 15:54:15.351320+07:00
+# Data koin yang naik cepat 2022-09-13 16:08:52.687795+07:00
 
-* AGLD_USDT -> Meningkat 3.5%
+* ANC_USDT -> Meningkat 3.59%
