@@ -1,7 +1,10 @@
-# Data koin yang naik cepat 2022-09-13 12:11:34.917258+07:00
+# Data koin yang naik cepat 2022-09-13 13:40:10.544855+07:00
 
-* BEAM_USDT -> Meningkat 3.29%
-* IOST_USDT -> Meningkat 6.24%
-* KMD_USDT -> Meningkat 6.03%
-* REEF_USDT -> Meningkat 3.89%
-* VGX_USDT -> Meningkat 7.6%
+* ANC_USDT -> Meningkat 4.76%
+* ASTR_USDT -> Meningkat 5.42%
+* INJ_USDT -> Meningkat 9.23%
+* LIT_USDT -> Meningkat 3.51%
+* MIR_USDT -> Meningkat 3.55%
+* STMX_USDT -> Meningkat 3.99%
+* SUPER_USDT -> Meningkat 3.39%
+* WOO_USDT -> Meningkat 4.29%
