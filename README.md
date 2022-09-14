@@ -1,3 +1,4 @@
-# Data koin yang naik cepat 2022-09-15 01:07:41.045838+07:00
+# Data koin yang naik cepat 2022-09-15 01:55:08.032362+07:00
 
-* CTXC_USDT -> Meningkat 8.18%
+* BETA_USDT -> Meningkat 3.48%
+* BTCDOWN_USDT -> Meningkat 3.13%
