@@ -1,7 +1,6 @@
-# Data koin yang naik cepat 2022-09-14 15:08:25.098631+07:00
+# Data koin yang naik cepat 2022-09-14 15:55:20.067431+07:00
 
-* ANC_USDT -> Meningkat 6.96%
-* KEY_USDT -> Meningkat 3.06%
-* MBL_USDT -> Meningkat 3.18%
-* MFT_USDT -> Meningkat 4.14%
-* TROY_USDT -> Meningkat 5.11%
+* DF_USDT -> Meningkat 3.27%
+* INJ_USDT -> Meningkat 4.42%
+* MIR_USDT -> Meningkat 3.03%
+* XEC_USDT -> Meningkat 3.92%
