@@ -1,6 +1,5 @@
-# Data koin yang naik cepat 2022-09-14 22:51:41.510335+07:00
+# Data koin yang naik cepat 2022-09-14 23:07:51.649336+07:00
 
-* AKRO_USDT -> Meningkat 4.74%
-* BEAM_USDT -> Meningkat 14.44%
-* REEF_USDT -> Meningkat 3.48%
-* TRB_USDT -> Meningkat 9.87%
+* BEAM_USDT -> Meningkat 4.62%
+* CFX_USDT -> Meningkat 9.4%
+* KMD_USDT -> Meningkat 3.11%
