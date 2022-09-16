@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-09-16 16:49:45.985687+07:00
+# Data koin yang naik cepat 2022-09-16 17:06:42.158931+07:00
 
-* NMR_USDT -> Meningkat 3.26%
-* VGX_USDT -> Meningkat 3.8%
+* BEAM_USDT -> Meningkat 3.35%
+* KMD_USDT -> Meningkat 3.9%
