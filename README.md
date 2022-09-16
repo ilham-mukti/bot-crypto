@@ -1,3 +1,2 @@
-# Data koin yang naik cepat 2022-09-16 18:44:19.162246+07:00
+# Data koin yang naik cepat 2022-09-16 19:11:11.012109+07:00
 
-* MTL_USDT -> Meningkat 5.2%
