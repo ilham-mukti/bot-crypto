@@ -1,2 +1,3 @@
-# Data koin yang naik cepat 2022-09-16 22:03:24.204310+07:00
+# Data koin yang naik cepat 2022-09-16 22:49:45.759423+07:00
 
+* QNT_USDT -> Meningkat 3.51%
