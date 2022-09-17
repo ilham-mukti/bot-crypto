@@ -1,3 +1,2 @@
-# Data koin yang naik cepat 2022-09-17 10:11:12.819045+07:00
+# Data koin yang naik cepat 2022-09-17 11:47:36.602835+07:00
 
-* TRB_USDT -> Meningkat 3.91%
