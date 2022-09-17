@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-09-17 13:54:37.209502+07:00
+# Data koin yang naik cepat 2022-09-17 14:06:53.764353+07:00
 
-* GTO_USDT -> Meningkat 3.81%
+* BTCST_USDT -> Meningkat 6.42%
