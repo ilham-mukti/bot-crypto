@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-09-18 06:51:09.941224+07:00
+# Data koin yang naik cepat 2022-09-18 07:37:59.205307+07:00
 
-* PERL_USDT -> Meningkat 3.12%
+* ADADOWN_USDT -> Meningkat 3.74%
