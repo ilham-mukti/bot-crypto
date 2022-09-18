@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-09-19 01:53:08.126581+07:00
+# Data koin yang naik cepat 2022-09-19 02:02:44.699756+07:00
 
-* XVS_USDT -> Meningkat 13.15%
+* QUICK_USDT -> Meningkat 9.22%
