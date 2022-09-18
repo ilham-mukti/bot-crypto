@@ -1,5 +1,4 @@
-# Data koin yang naik cepat 2022-09-19 02:42:12.085814+07:00
+# Data koin yang naik cepat 2022-09-19 03:05:46.085925+07:00
 
-* HARD_USDT -> Meningkat 9.74%
-* KP3R_USDT -> Meningkat 4.24%
-* PNT_USDT -> Meningkat 6.94%
+* ADX_USDT -> Meningkat 4.44%
+* QUICK_USDT -> Meningkat 7.94%
