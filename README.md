@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-09-18 23:07:01.356518+07:00
+# Data koin yang naik cepat 2022-09-19 00:02:09.011633+07:00
 
-* OG_USDT -> Meningkat 3.12%
+* HARD_USDT -> Meningkat 16.84%
