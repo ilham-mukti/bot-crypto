@@ -1,3 +1,5 @@
-# Data koin yang naik cepat 2022-09-18 07:37:59.205307+07:00
+# Data koin yang naik cepat 2022-09-18 10:33:10.041316+07:00
 
-* ADADOWN_USDT -> Meningkat 3.74%
+* FORTH_USDT -> Meningkat 9.88%
+* PORTO_USDT -> Meningkat 3.08%
+* VITE_USDT -> Meningkat 8.3%
