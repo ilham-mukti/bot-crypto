@@ -1,2 +1,3 @@
-# Data koin yang naik cepat 2022-09-18 15:07:39.790111+07:00
+# Data koin yang naik cepat 2022-09-18 15:51:56.990535+07:00
 
+* TCT_USDT -> Meningkat 3.82%
