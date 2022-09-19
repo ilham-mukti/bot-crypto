@@ -1,6 +1,3 @@
-# Data koin yang naik cepat 2022-09-19 15:58:47.877649+07:00
+# Data koin yang naik cepat 2022-09-19 16:19:20.411158+07:00
 
-* FOR_USDT -> Meningkat 5.78%
-* REI_USDT -> Meningkat 3.39%
-* VITE_USDT -> Meningkat 6.81%
-* XVS_USDT -> Meningkat 3.26%
+* DIA_USDT -> Meningkat 10.46%
