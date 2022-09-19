@@ -1,4 +1,4 @@
-# Data koin yang naik cepat 2022-09-19 14:30:13.670700+07:00
+# Data koin yang naik cepat 2022-09-19 15:00:16.521174+07:00
 
-* BEAM_USDT -> Meningkat 4.47%
-* FOR_USDT -> Meningkat 6.15%
+* HARD_USDT -> Meningkat 3.29%
+* XVS_USDT -> Meningkat 3.33%
