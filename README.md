@@ -1,3 +1,3 @@
-# Data koin yang naik cepat 2022-09-20 01:56:51.222751+07:00
+# Data koin yang naik cepat 2022-09-20 02:11:16.157746+07:00
 
-* XRPUP_USDT -> Meningkat 3.3%
+* APE_USDT -> Meningkat 9.1%
