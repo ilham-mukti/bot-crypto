@@ -1,3 +1,4 @@
-# Data koin yang naik cepat 2022-09-20 02:11:16.157746+07:00
+# Data koin yang naik cepat 2022-09-20 02:43:59.179164+07:00
 
-* APE_USDT -> Meningkat 9.1%
+* AMP_USDT -> Meningkat 4.37%
+* PERL_USDT -> Meningkat 4.04%
