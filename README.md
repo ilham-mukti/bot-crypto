@@ -1,3 +1,5 @@
-# Data koin yang naik cepat 2022-09-21 01:08:02.875355+07:00
+# Data koin yang naik cepat 2022-09-24 19:28:16.708251+07:00
 
-* WRX_USDT -> Meningkat 8.47%
+* INJ_USDT -> Meningkat 3.47%
+* RAD_USDT -> Meningkat 3.17%
+* TORN_USDT -> Meningkat 3.35%
